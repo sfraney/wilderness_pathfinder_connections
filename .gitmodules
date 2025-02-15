@@ -1,0 +1,3 @@
+[submodule "themes/educenter"]
+	path = themes/educenter
+	url = git@github.com:themefisher/educenter-hugo.git

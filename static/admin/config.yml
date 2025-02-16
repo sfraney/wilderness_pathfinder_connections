@@ -1,0 +1,18 @@
+backend:
+  name: github
+  repo: sfraney/wilderness_pathfinder_connections
+  branch: main
+  base_url: https://api.github.com
+
+media_folder: "static/images/uploads"
+public_folder: "/images/uploads"
+
+collections:
+  - name: "pages"
+    label: "Pages"
+    folder: "content"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Body", name: "body", widget: "markdown" }

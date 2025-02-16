@@ -62,8 +62,8 @@ jobs:
       - name: Copy Decap CMS configuration
         run: |
           mkdir -p public/admin
-          cp admin/index.html public/admin/index.html
-          cp admin/config.yml public/admin/config.yml
+          cp static/admin/index.html public/admin/index.html
+          cp static/admin/config.yml public/admin/config.yml
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:

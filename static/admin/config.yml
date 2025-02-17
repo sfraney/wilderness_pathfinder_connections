@@ -3,11 +3,11 @@ backend:
   repo: sfraney/wilderness_pathfinder_connections
   branch: main
   base_url: https://api.github.com
-#  auth_scope: repo
+  auth_scope: repo
   app_id: ${{ secrets.DECAP_CMS_CLIENT_ID }}  # Pass GitHub OAuth Client ID here
-#  auth_endpoint: /login/oauth/authorize
-#  cms_label_prefix: "cms"
-#  open_authoring: true
+  auth_endpoint: /login/oauth/authorize
+  cms_label_prefix: "cms"
+  open_authoring: true
 
 publish_mode: editorial_workflow
 

@@ -2,7 +2,7 @@ backend:
   name: github
   repo: sfraney/wilderness_pathfinder_connections
   branch: main
-  base_url: https://api.github.com
+  base_url: https://github.com
   auth_scope: repo
   app_id: ${{ secrets.DECAP_CMS_CLIENT_ID }}  # Pass GitHub OAuth Client ID here
   auth_endpoint: /login/oauth/authorize

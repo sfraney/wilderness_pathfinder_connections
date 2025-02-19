@@ -235,7 +235,7 @@ id = ""
     longitude = "-77.028333"
 
     # Style options: default (light-blue), blue, green, marsala, pink, red, turquoise, violet
-    style = "green"
+    style = "turquoise"
 
     # Since this template is static, the contact form uses www.formspree.io as a
     # proxy. The form makes a POST request to their servers to send the actual
@@ -286,8 +286,8 @@ id = ""
     logo_small = "img/logo-small.png"
     contact_url = "/contact"
     address = """<p class="text-uppercase"><strong>TBD</strong>
-        <br>Street
-        <br>City, State
+        <br>info@wildpathfinder.org
+        <br>Portland, Oregon
         <br><strong>United States</strong>
       </p>
       """
@@ -298,9 +298,9 @@ id = ""
 # Enable or disable top bar with social icons
 [params.topbar]
     enable = true
-    text = """<p class="hidden-sm hidden-xs">Contact us on +420 777 555 333 or hello@universal.com.</p>
+    text = """<p class="hidden-sm hidden-xs">Contact us at info@wildpathfinder.org</p>
       <p class="hidden-md hidden-lg"><a href="tel:+420 777 555 333" data-animate-hover="pulse"><i class="fas fa-phone"></i></a>
-      <a href="mailto:hello@universal.com" data-animate-hover="pulse"><i class="fas fa-envelope"></i></a>
+      <a href="mailto:info@wildpathfinder.org" data-animate-hover="pulse"><i class="fas fa-envelope"></i></a>
       </p>
       """
 
@@ -333,7 +333,7 @@ id = ""
 
 [params.features]
     enable = true
-    cols = 3 # Default: 4, Available values 2,3,4,6
+    cols = 4 # Default: 4, Available values 2,3,4,6
     # All features are defined in their own files. You can find example items
     # at 'exampleSite/Four/Pillars'.
     # For more information take a look at the README.

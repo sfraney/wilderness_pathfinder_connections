@@ -67,6 +67,14 @@ id = ""
     url        = "/vision/"
     weight     = 2
     parent     = "section.our_mission"
+    
+[[menu.main]]
+    name       = "Blog"
+    identifier = "section.blog"
+    url        = "/blog/"
+    weight     = 
+    parent     = "menu.our_story"
+    post       = 3
 
 [[menu.main]]
     name       = "Get Involved"
@@ -138,14 +146,8 @@ id = ""
 [[menu.main]]
     name       = "Donate"
     url        = "/donate/"
-    weight     = 1
-    parent     = "menu.contact"
-
-[[menu.main]]
-    name       = "Blog"
-    identifier = "menu.blog"
-    url        = "/blog/"
     weight     = 5
+    parent     = ""
 
 # [[menu.main]]
 #     name       = "All Pages"

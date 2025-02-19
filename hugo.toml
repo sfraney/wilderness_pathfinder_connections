@@ -88,6 +88,12 @@ id = ""
     parent     = "section.our_work"
 
 [[menu.main]]
+    name       = "Volunteer"
+    url        = ""
+    weight     = 2
+    parent     = "menu.get_involved"
+
+[[menu.main]]
     name       = "Events & Resources"
     identifier = "menu.resources"
     url        = "/img/template-homepage.png"

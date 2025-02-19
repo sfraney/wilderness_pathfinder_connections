@@ -297,7 +297,11 @@ id = ""
     enableRecaptchaInContactForm = false
     googleRecaptchaKey = "site_key_for_google_recaptcha"
 
-    about_us = "<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>"
+    about_us = "<p>Wilderness Pathfinder Connections empowers women veterans by providing the skills, support, and opportunities to become Rite of Passage Wilderness Guides. We remove barriers to nature-based healing and leadership, fostering mentorship, honoring traditions, and ensuring rites of passage remain accessible and meaningful.
+
+Through this work, we create a movement of women veterans reclaiming their power, deepening their connection to the land, and guiding others on their journey of transformation.
+
+Join us as we walk this path together.</p>"
     copyright = "Copyright (c) 2025, Wilderness Pathfinder Connections; all rights reserved."
 
     # Format dates with Go's time formatting

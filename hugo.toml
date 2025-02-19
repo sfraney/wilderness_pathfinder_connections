@@ -165,11 +165,11 @@ id = ""
 
 # [[menu.main]]
 #     name       = "Get Involved"
-#     identifier = "section.ap-about"
+#     identifier = "menu.get_involved"
 #     url        = ""
-#     weight     = 1
+#     weight     = 3
 #     parent     = "menu.allpages"
-#     post       = 2
+#     post       = 
 
 # [[menu.main]]
 #     name       = "Resources"
@@ -183,9 +183,9 @@ id = ""
 #     name       = "Contact"
 #     identifier = "section.ap-contact"
 #     url        = ""
-#     weight     = 1
-#     parent     = "menu.allpages"
-#     post       = 4
+#     weight     = 6
+#     parent     = ""
+#     post       = 
 
 # [[menu.main]]
 #     name       = "User Pages"

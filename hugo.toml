@@ -35,9 +35,9 @@ id = ""
 
 [[menu.main]]
     name       = "Our Story"
-    identifier = "section.our_story"
+    identifier = "menu.our_story"
     url        = ""
-    weight     = 1
+    weight     = 2
     parent     = "menu.home"
     post       = 1
 
@@ -71,7 +71,7 @@ id = ""
     name       = "Get Involved"
     identifier = "menu.get_involved"
     url        = ""
-    weight     = 2
+    weight     = 3
 
 [[menu.main]]
     name       = "Our Work"
@@ -93,6 +93,25 @@ id = ""
     weight     = 2
     parent     = "menu.get_involved"
 
+[[menu.main]]
+    name       = "Mentorship"
+    url        = ""
+    weight     = 3
+    parent     = "menu.get_involved"
+    
+[[menu.main]]
+    name       = "How to Join Guide Network"
+    url        = ""
+    weight     = 4
+    parent     = "menu.get_involved"
+    
+    
+[[menu.main]]
+    name       = "Shop to Support"
+    url        = ""
+    weight     = 5
+    parent     = "menu.get_involved"
+    
 [[menu.main]]
     name       = "Events & Resources"
     identifier = "menu.resources"

@@ -44,7 +44,7 @@ id = ""
 [[menu.main]]
     name       = "Meet Our Advisory Council"
     url        = "/advisory/"
-    weight     = 
+    weight     = 2
     parent     = "menu.our_story"
     post       = 2
 

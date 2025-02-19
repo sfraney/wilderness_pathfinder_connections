@@ -88,7 +88,7 @@ id = ""
     parent     = "section.our_work"
 
 [[menu.main]]
-    name       = "Resources"
+    name       = "Events & Resources"
     identifier = "menu.resources"
     url        = "/img/template-homepage.png"
     weight     = 3

@@ -212,7 +212,7 @@ id = ""
 [[menu.topbar]]
     weight = 5
     name = "Email"
-    url = "mailto:hello@universal.com"
+    url = "mailto:info@wildpathfinder.org"
     pre = "<i class='fas fa-2x fa-envelope'></i>"
 
 [params]
@@ -235,7 +235,7 @@ id = ""
     longitude = "-77.028333"
 
     # Style options: default (light-blue), blue, green, marsala, pink, red, turquoise, violet
-    style = "marsala"
+    style = "green"
 
     # Since this template is static, the contact form uses www.formspree.io as a
     # proxy. The form makes a POST request to their servers to send the actual
@@ -333,9 +333,9 @@ id = ""
 
 [params.features]
     enable = true
-    cols = 3 # Default: 3, Available values 2,3,4,6
+    cols = 3 # Default: 4, Available values 2,3,4,6
     # All features are defined in their own files. You can find example items
-    # at 'exampleSite/data/features'.
+    # at 'exampleSite/Four/Pillars'.
     # For more information take a look at the README.
 
 [params.testimonials]

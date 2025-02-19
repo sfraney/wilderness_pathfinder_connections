@@ -91,27 +91,31 @@ id = ""
 [[menu.main]]
     name       = "Volunteer"
     url        = "section.Volunteer"
-    weight     = 2
+    weight     = 
     parent     = "menu.get_involved"
+    post       = 2
 
 [[menu.main]]
     name       = "Mentorship"
     url        = "section.Mentorship"
-    weight     = 3
+    weight     = 
     parent     = "menu.get_involved"
+    post       = 3
     
 [[menu.main]]
     name       = "How to Join Guide Network"
     url        = "section.How_to_Join_Guide_Network"
-    weight     = 4
+    weight     = 
     parent     = "menu.get_involved"
+    post       = 4
     
     
 [[menu.main]]
     name       = "Shop to Support"
     url        = "section.Shop_to_Support"
-    weight     = 5
+    weight     = 
     parent     = "menu.get_involved"
+    post       = 5
     
 [[menu.main]]
     name       = "Events & Resources"

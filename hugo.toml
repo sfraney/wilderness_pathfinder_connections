@@ -89,26 +89,26 @@ id = ""
 
 [[menu.main]]
     name       = "Volunteer"
-    url        = ""
+    url        = "section.Volunteer"
     weight     = 2
     parent     = "menu.get_involved"
 
 [[menu.main]]
     name       = "Mentorship"
-    url        = ""
+    url        = "section.Mentorship"
     weight     = 3
     parent     = "menu.get_involved"
     
 [[menu.main]]
     name       = "How to Join Guide Network"
-    url        = ""
+    url        = "section.How_to_Join_Guide_Network"
     weight     = 4
     parent     = "menu.get_involved"
     
     
 [[menu.main]]
     name       = "Shop to Support"
-    url        = ""
+    url        = "section.Shop_to_Support"
     weight     = 5
     parent     = "menu.get_involved"
     

@@ -86,9 +86,9 @@ id = ""
     name       = "Our Work"
     identifier = "section.our_work"
     url        = ""
-    weight     = 1
+    weight     = 
     parent     = "menu.get_involved"
-    post       = 1
+    post       = 
 
 [[menu.main]]
     name       = "Meet Our Team"

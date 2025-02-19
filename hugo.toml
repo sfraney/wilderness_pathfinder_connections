@@ -365,7 +365,7 @@ id = ""
 [params.recent_posts]
     enable = true
     title = "Latest Updates"
-    subtitle = "Upcoming programs, events, and milestones."
+    subtitle = <div style="text-align: center;">"Upcoming programs, events, and milestones."</div>
     hide_summary = false
 
 [params.footer.recent_posts]

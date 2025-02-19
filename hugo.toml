@@ -50,7 +50,7 @@ id = ""
     
 [[menu.main]]
     name       = "Follow Our Journey"
-    url        = 
+    url        = "/"
     weight     = 3
     parent     = "menu.our_story"
     post       = 

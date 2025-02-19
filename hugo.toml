@@ -38,7 +38,7 @@ id = ""
     identifier = "menu.our_story"
     url        = ""
     weight     = 2
-    parent     = "menu.home"
+    parent     = ""
     post       = 1
 
 [[menu.main]]

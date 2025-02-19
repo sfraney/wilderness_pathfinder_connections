@@ -7,7 +7,10 @@ keywords = [
   "creation",
   "sustainability",
   "empowerment",
-  "legacy"
+  "legacy",
+  "wilderness facilitation",
+  "group leadership",
+  "nonprofit structure"
 ]
 +++
 It sounds like this section covers the full arc from:

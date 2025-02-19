@@ -129,7 +129,7 @@ id = ""
     name       = "Events & Resources"
     identifier = "menu.resources"
     url        = "/img/template-homepage.png"
-    weight     = 3
+    weight     = 4
 
 [[menu.main]]
     name       = "Closed Membership Portal"

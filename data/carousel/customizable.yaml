@@ -1,9 +1,9 @@
 weight: 4
-title: "Easy to customize"
-description: >
+title: Honoring the land, traditions, and rites that guide us in healing.
+description: |
   <ul class="list-style-none">
-    <li>7 preprepared colour variations.</li>
-    <li>Easily to change fonts</li>
+    <li>Rooted in the land, traditions, and rites</li>
+    <li>that inform our journey as guides</li>
   </ul>
-image: "img/carousel/template-easy-code.png"
-href: "https://devcows.github.io/hugo-universal-theme/"
+image: img/carousel/template-easy-code.png
+href: https://devcows.github.io/hugo-universal-theme/

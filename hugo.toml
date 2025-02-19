@@ -349,10 +349,10 @@ id = ""
 [params.see_more]
     enable = true
     icon = "far fa-file-alt"
-    title = "Do you want to see more?"
-    subtitle = "We have prepared for you more than 40 different HTML pages, including 5 variations of homepage."
+    title = "Join Us in the Journey"
+    subtitle = "Be part of a movement that uplifts women veterans through nature-based healing and leadership. Whether through training, support, or funding, your involvement makes a difference."
     link_url = "#"
-    link_text = "Check other homepages"
+    link_text = "Get Involved | Donate"
 
 [params.clients]
     enable = true
@@ -364,8 +364,8 @@ id = ""
 
 [params.recent_posts]
     enable = true
-    title = "From our blog"
-    subtitle = "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo."
+    title = "Latest Updates"
+    subtitle = "Upcoming programs, events, and milestones."
     hide_summary = false
 
 [params.footer.recent_posts]

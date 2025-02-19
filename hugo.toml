@@ -119,8 +119,8 @@ id = ""
     weight     = 3
 
 [[menu.main]]
-    name       = "Recommended Book List"
-    url        = "/book-list/"
+    name       = "Closed Membership Portal"
+    url        = "section.Closed_Membership_Portal"
     weight     = 1
     parent     = "menu.resources"
 

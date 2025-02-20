@@ -139,7 +139,7 @@ id = ""
     weight     = 4
 
 [[menu.main]]
-    name       = "Closed Membership Portal"
+    name       = "Private Membership Portal"
     url        = "section.Closed_Membership_Portal"
     weight     = 1
     parent     = "menu.resources"

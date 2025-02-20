@@ -3,7 +3,7 @@ title = "Marking a New Beginning: Wilderness Pathfinder Connections Takes Root"
 date = 2021-08-14T19:29:00.000Z
 tags = [ "new", "begininnings", "building" ]
 categories = [ "milestone", "update" ]
-banner = "img/Sunset in Indianola"
+banner = "img/Sunrise-in-Indianola.jpg"
 authors = [ "John Doe" ]
 +++
 Today, we celebrate a milestone—the official formation of Wilderness Pathfinder Connections! What began as a vision has now taken root, and we couldn’t be more excited to embark on this journey with you.

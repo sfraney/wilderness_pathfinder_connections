@@ -1,5 +1,5 @@
 +++
-title = "Marking a New Beginning:<br> Wilderness Pathfinder Connections Takes Root"
+title = "Marking a New Beginning: Wilderness Pathfinder Connections Takes Root"
 date = 2021-08-14T19:29:00.000Z
 tags = [ "new", "begininnings", "building" ]
 categories = [ "milestone", "update" ]
@@ -17,7 +17,7 @@ We are deeply grateful for every conversation, every shared experience, and ever
 In the months ahead, we’ll share more about our journey, the work ahead, and ways to get involved. But today, we celebrate. **Here’s to the path ahead!**
 
 With gratitude,<br>
-<br>
+
 **The Wilderness Pathfinder Connections Team**
 
 **![Sun rising in the distance, one large tree to the left, the shore and Puget sound in the foreground.](/uploads/20241013-073753.jpg "Sunrise at Indianola, Washington")**

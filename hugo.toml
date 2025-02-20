@@ -118,7 +118,7 @@ id = ""
     post       = 
     
 [[menu.main]]
-    name       = "How to Join Guide Network"
+    name       = "Join the Guide Network"
     url        = "section.How_to_Join_Guide_Network"
     weight     = 4
     parent     = "menu.get_involved"

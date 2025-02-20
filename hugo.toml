@@ -34,28 +34,6 @@ id = ""
     weight     = 1
 
 [[menu.main]]
-    name       = "Our Story"
-    identifier = "menu.our_story"
-    url        = ""
-    weight     = 2
-    parent     = ""
-    post       = 1
-
-[[menu.main]]
-    name       = "Meet Our Advisory Council"
-    url        = "/advisory/"
-    weight     = ""
-    parent     = "menu.our_story"
-    post       = 2
-    
-[[menu.main]]
-    name       = "Follow Our Journey"
-    url        = ""
-    weight     = 3
-    parent     = "menu.our_story"
-    post       = 
-
-[[menu.main]]
     name       = "Our Mission"
     identifier = "section.our_mission"
     url        = "/"
@@ -74,14 +52,30 @@ id = ""
     url        = "/vision/"
     weight     = 2
     parent     = "section.our_mission"
+
+[[menu.main]]
+    name       = "Our Story"
+    identifier = "menu.our_story"
+    url        = ""
+    weight     = 2
+
+[[menu.main]]
+    name       = "Our Advisory Council"
+    url        = "/advisory/"
+    weight     = 1
+    parent     = "menu.our_story"
+[[menu.main]]
+    name       = "Follow Our Journey"
+    url        = ""
+    weight     = 2
+    parent     = "menu.our_story"
     
 [[menu.main]]
     name       = "Blog"
     identifier = "section.blog"
     url        = "/blog/"
-    weight     = 
+    weight     = 3
     parent     = "menu.our_story"
-    post       = 3
 
 [[menu.main]]
     name       = "Get Involved"
@@ -93,9 +87,9 @@ id = ""
     name       = "Our Work"
     identifier = "section.our_work"
     url        = ""
-    weight     = 
+    weight     = 1
     parent     = "menu.get_involved"
-    post       = 
+    post       = 1
 
 [[menu.main]]
     name       = "Meet Our Team"
@@ -108,21 +102,21 @@ id = ""
     url        = "section.Volunteer"
     weight     = 2
     parent     = "menu.get_involved"
-    post       = 
+    post       = 1
 
 [[menu.main]]
     name       = "Mentorship"
     url        = "section.Mentorship"
     weight     = 3
     parent     = "menu.get_involved"
-    post       = 
+    post       = 1
     
 [[menu.main]]
     name       = "Join the Guide Network"
     url        = "section.How_to_Join_Guide_Network"
     weight     = 4
     parent     = "menu.get_involved"
-    post       = 
+    post       = 1
     
     
 [[menu.main]]
@@ -130,7 +124,7 @@ id = ""
     url        = "section.Shop_to_Support"
     weight     = 5
     parent     = "menu.get_involved"
-    post       = 
+    post       = 1
     
 [[menu.main]]
     name       = "Events & Resources"
@@ -154,67 +148,6 @@ id = ""
     name       = "Donate"
     url        = "/donate/"
     weight     = 5
-    parent     = ""
-
-# [[menu.main]]
-#     name       = "All Pages"
-#     identifier = "menu.allpages"
-#     url        = ""
-#     weight     = 4
-
-# [[menu.main]]
-#     name       = "Home"
-#     identifier = "section.ap-home"
-#     url        = ""
-#     weight     = 1
-#     parent     = "menu.allpages"
-#     post       = 1
-
-# [[menu.main]]
-#     name       = "Get Involved"
-#     identifier = "menu.get_involved"
-#     url        = ""
-#     weight     = 3
-#     parent     = "menu.allpages"
-#     post       = 
-
-# [[menu.main]]
-#     name       = "Resources"
-#     identifier = "section.ap-shop"
-#     url        = ""
-#     weight     = 1
-#     parent     = "menu.allpages"
-#     post       = 3
-
-# [[menu.main]]
-#     name       = "Contact"
-#     identifier = "section.ap-contact"
-#     url        = ""
-#     weight     = 6
-#     parent     = ""
-#     post       = 
-
-# [[menu.main]]
-#     name       = "User Pages"
-#     identifier = "section.ap-userpages"
-#     url        = ""
-#     weight     = 2
-#     parent     = "menu.allpages"
-#     post       = 1
-
-# [[menu.main]]
-#     name       = "Blog"
-#     identifier = "section.ap-blog"
-#     url        = "/blog/"
-#     weight     = 2
-#     parent     = "menu.allpages"
-#     post       = 3
-
-#[[menu.main]]
-#    name       = "Blog Listing Big"
-#    url        = "/blog/"
-#    weight     = 1
-#    parent     = "section.ap-blog"
 
 # Top bar social links menu
 
@@ -304,11 +237,7 @@ id = ""
     enableRecaptchaInContactForm = false
     googleRecaptchaKey = "site_key_for_google_recaptcha"
 
-    about_us = "<p>Wilderness Pathfinder Connections empowers women veterans by providing the skills, support, and opportunities to become Rite of Passage Wilderness Guides. We remove barriers to nature-based healing and leadership, fostering mentorship, honoring traditions, and ensuring rites of passage remain accessible and meaningful.
-
-Through this work, we create a movement of women veterans reclaiming their power, deepening their connection to the land, and guiding others on their journey of transformation.
-
-Join us as we walk this path together.</p>"
+    about_us = "<p>Wilderness Pathfinder Connections empowers women veterans</p>"
     copyright = "Copyright (c) 2025, Wilderness Pathfinder Connections; all rights reserved."
 
     # Format dates with Go's time formatting
@@ -407,12 +336,6 @@ Join us as we walk this path together.</p>"
 
 [params.footer.recent_posts]
     enable = true
-    <form action="https://your-mailchimp-url" method="post">
-  <label for="email">Stay Connected:</label>
-  <input type="email" id="email" name="EMAIL" placeholder="Enter your email" required>
-  <button type="submit">Subscribe</button>
-</form>
-
 
 [taxonomies]
   category = "categories"

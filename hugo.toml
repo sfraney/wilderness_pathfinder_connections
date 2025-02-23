@@ -41,7 +41,7 @@ id = ""
     
 [[menu.main]]
     name       = "Our Mission & Vission"
-    identifier = "section.Mission & Vision"
+    identifier = "section.Mission"
     url        = "/mission/"
     weight     = 1
     parent     = "menu.our_story"
@@ -53,7 +53,6 @@ id = ""
     weight     = 2
     parent     = "menu.our_story"
   
-    
 [[menu.main]]
     name       = "Blog"
     identifier = "section.blog"

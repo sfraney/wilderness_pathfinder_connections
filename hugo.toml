@@ -42,7 +42,7 @@ id = ""
 [[menu.main]]
     name       = "Our Mission & Vission"
     identifier = "section.our_story"
-    url        = "/"
+    url        = "/mission/"
     weight     = 
     parent     = "menu.home"
     post       = 2
@@ -139,17 +139,17 @@ id = ""
     weight     = 1
     parent     = "menu.resources"
 
-[[menu.main]]
-    name       = "Donate"
-    url        = "/donate/"
-    weight     = 4
-    
+    /img/logo-medium.png
 [[menu.main]]
     name       = "Contact"
     identifier = "menu.contact"
     url        = ""
+    weight     = 4
+    
+[menu.main]]
+    name       = "Donate"
+    url        = "/donate/"
     weight     = 5
-
 
 # Top bar social links menu
 

@@ -41,7 +41,7 @@ id = ""
     
 [[menu.main]]
     name       = "Our Mission & Vission"
-    identifier = "section.our_story"
+    identifier = "section.Mission & Vision"
     url        = "/mission/"
     weight     = 
     parent     = "menu.our_story"
@@ -250,6 +250,7 @@ id = ""
         <br>info@wildpathfinder.org
         <br>Portland, Oregon
         <br><strong>United States</strong>
+        Wilderness Pathfinder Connections is a 501(c)(3) nonprofit. Your donation is tax-deductible.
       </p>
       """
 

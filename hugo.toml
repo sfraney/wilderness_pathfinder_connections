@@ -52,12 +52,7 @@ id = ""
     url        = "/advisory/"
     weight     = 2
     parent     = "menu.our_story"
-    
-[[menu.main]]
-    name       = "Follow Our Journey"
-    url        = ""
-    weight     = 2
-    parent     = "menu.our_story"
+  
     
 [[menu.main]]
     name       = "Blog"

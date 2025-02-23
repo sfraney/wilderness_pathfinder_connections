@@ -3,14 +3,13 @@ title = "Advisory Council"
 description = "Meet our advisory council"
 keywords = [ "advisory", "council", "board" ]
 +++
-![Latino woman holding a camping lantern up to her face to illuminate the area](/uploads/61992.jpeg "Maria in basecamp")
+![Latino woman holding a camping lantern up to her face to illuminate the area](/uploads/maria-50.jpg "Maria in basecamp")
 
 ## Maria
 
 Co-Founder & Advisory Council Member
 
 &nbsp;
-
 
 ![Old black and white passport photo of a small filipino child](/uploads/fb-img-1537897330643.jpg "Sher")
 
@@ -22,8 +21,7 @@ Shari is a visionary leader and dedicated advocate for women veterans, committed
 
 &nbsp;
 
-
-![Woman wrapped in blanket with wet teabags over her eyes and arms over her chest like a vampire](/uploads/img-1622-heic-unknown.jpg "Debbee, Chairperson"){ width=400px }(/uploads/img-1622-heic-unknown.jpg "Debbee, Chairperson"){width=30%}
+![Woman wrapped in blanket with wet teabags over her eyes and arms over her chest like a vampire](/uploads/debbee-25.jpg "Debbee, Chairperson")
 
 ## Debbee, Ph.D
 
@@ -33,4 +31,4 @@ Debbee is a dedicated community leader and advocate for veteran healing, guiding
 
 As Chairperson of the Advisory Council for Wilderness Pathfinder Connections, she brings extensive experience in leadership development, mentorship, and community-building. Her expertise ensures the organization’s strength and sustainability, helping to break down barriers to nature-based healing and leadership. Debbee’s passion for empowering veterans and fostering meaningful connection makes her an integral force in shaping the future of this movement.
 
-<img src="img-1622-heic-unknown.jpg" alt="Alt text" width="50%">
+<img src="img-1622-heic-unknown.jpg" alt="Alt text" width="50" />

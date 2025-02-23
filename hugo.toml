@@ -30,7 +30,7 @@ id = ""
 [[menu.main]]
     name       = "Home"
     identifier = "menu.home"
-    url        = "/img/logo-medium.png"
+    url        = ""
     weight     = 1
 
 [[menu.main]]
@@ -43,7 +43,7 @@ id = ""
     name       = "Our Mission & Vission"
     identifier = "section.our_story"
     url        = "/"
-    weight     = 2
+    weight     = 
     parent     = "menu.home"
     post       = 2
 

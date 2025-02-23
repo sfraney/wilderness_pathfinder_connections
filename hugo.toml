@@ -43,7 +43,7 @@ id = ""
     name       = "Our Mission & Vission"
     identifier = "section.Mission & Vision"
     url        = "/mission/"
-    weight     = 2
+    weight     = 1
     parent     = "menu.our_story"
     post       = 
 

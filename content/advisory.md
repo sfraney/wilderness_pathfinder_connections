@@ -21,7 +21,7 @@ Shari is a visionary leader and dedicated advocate for women veterans, committed
 
 &nbsp;
 
-![Woman wrapped in blanket with wet teabags over her eyes and arms over her chest like a vampire](/uploads/debbee-25.jpg "Debbee, Chairperson")
+![Woman wrapped in blanket with wet teabags over her eyes and arms over her chest like a vampire](/uploads/debbee-25-75.jpg "Debbee, Chairperson")
 
 ## Debbee, Ph.D
 

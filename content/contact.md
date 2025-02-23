@@ -8,7 +8,9 @@ We welcome inquiries, collaborations, and connections. Whether you have question
 2. Email (Required)
 3. Subject (Dropdown: General Inquiry, Volunteering, Mentorship, Donations, Other)
 4. Message
-5. Submit Button (**\[Send Message\]**)<br><br>1\. WHAT IS WILDERNESS PATHFINDER CONNECTIONS?
+5. Submit Button (**\[Send Message\]**)
+
+   ## <br>1\. WHAT IS WILDERNESS PATHFINDER CONNECTIONS?
 
    We are a nonprofit supporting women veterans in becoming Rite of Passage Wilderness Guides.
    * Lorem ipsum dolor sit amet, consectetuer adipiscing elit.

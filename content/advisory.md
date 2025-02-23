@@ -3,7 +3,7 @@ title = "Advisory Council"
 description = "Meet our advisory council"
 keywords = [ "advisory", "council", "board" ]
 +++
-![Latino woman holding a camping lantern up to her face to illuminate the area](/uploads/maria-50.jpg "Maria in basecamp")
+![Latino woman holding a camping lantern up to her face to illuminate the area](/uploads/maria-400.jpg "Maria in basecamp")
 
 ## Maria
 
@@ -21,7 +21,7 @@ Shari is a visionary leader and dedicated advocate for women veterans, committed
 
 &nbsp;
 
-![Woman wrapped in blanket with wet teabags over her eyes and arms over her chest like a vampire](/uploads/debbee-25-75.jpg "Debbee, Chairperson")
+![Woman wrapped in blanket with wet teabags over her eyes and arms over her chest like a vampire](/uploads/debbee-400.jpg "Debbee, Chairperson")
 
 ## Debbee, Ph.D
 

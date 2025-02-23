@@ -3,14 +3,22 @@ title = "Advisory Council"
 description = "Meet our advisory council"
 keywords = [ "advisory", "council", "board" ]
 +++
+![Latino woman holding a camping lantern up to her face to illuminate the area](/uploads/61992.jpeg "Maria in basecamp")
+
 ## Maria
 
-## Sher![Old black and white passport photo of a small filipino child](/uploads/fb-img-1537897330643.jpg "Sher")
+Co-Founder & Advisory Council Member
 
-Sher is a 9 year OIF/OEF Navy Nuclear Electronics Technician with 3 deployments. After leaving the Navy, she became the first female power plant control operator on the Midcontinent Independent System Operator (MISO) electrical grid. Sher graduated from the University of Wisconsin-Madison with a Bachelor of Science in Retailing with three minors in Textile Science, Business, and Entrepreneurship. In addition to being a wilderness guide with Veteran Rites, she works with homeless youth and fights against food insecurity in her community. Sher wears many hats: first-generation immigrant, first-generation college graduate, wife, mother, dog mom, and part-time caregiver of her mother. Yet, one's own identity has been elusive for her. Sher’s path towards healing and self-discovery has not been easy due to the trauma she has experienced, but her resolution to seek help and guidance brought her to Veteran Rites. She knows the path towards healing can be difficult and daunting, however, she is ready to help cast a shining light for the lost. At Veteran Rites, she hopes to lead by example and guide others with compassion. When Sher is away from Veteran Rites she spends her time as a visual artist, writer, master gardener, Filipino reconstructionist, and petter of dogs.
+[Old black and white passport photo of a small filipino child](/uploads/fb-img-1537897330643.jpg "Sher")
 
-## Debbee![Woman wrapped in blanket with wet teabags over her eyes and arms over her chest like a vampire](/uploads/img-1622-heic-unknown.jpg "Debbee, Chairperson"){width=50px}
+## Sher!
 
-Dr. Debbee Maraglio-Lynn is a U.S. Navy Veteran and a Ph.D. in organizational leadership from Northwest University, writing her dissertation on nature-based mindfulness practiced by educational leaders identifying as women. She has over 20 years of experience teaching and leading youth and adults formally and informally, inside and outdoors. She is also a certified 500-hour yoga instructor and mindfulness meditation teacher. Dr. D holds various certifications and training, including compassion integrity training, compassionate listening, nature connection, wilderness first responder, yoga therapy, Veteran Yoga Project Resilience for Trauma, mindful coaching, mindful self-compassion, and mindful eating.
+Co-Founder & Advisory Council Member Shari is a visionary leader and dedicated advocate for women veterans, committed to creating transformative spaces for healing, leadership, and empowerment. As a Rite of Passage wilderness guide and co-founder of Wilderness Pathfinder Connections, she brings years of experience in mentorship, community building, and nature-based rites of passage. With a deep understanding of the challenges women veterans face, Shari works to break down barriers to healing and ensure that every woman who seeks transformation through nature has the support and resources to step into her power. Her leadership drives the organization’s mission forward, fostering resilience, connection, and a movement of veteran women reclaiming their strength.
 
-She emphasizes wellness and insights through movement, mind, body, and nature practices to inspire ways of being that can increase an individual’s awareness, knowledge, intentions, and connection to themselves and their community. She believes compassionate speaking and listening inspire and empower people; nature and practice are medicine. Life, with all its challenges and joys, is truly an adventure inside and out. Dr. D currently resides in the Boreal forests of Alaska with her partner and enjoys time at the beach, in the mountains, and in the forest, practicing stillness, adventure, movement, and meditation.
+## ![Woman wrapped in blanket with wet teabags over her eyes and arms over her chest like a vampire](/uploads/img-1622-heic-unknown.jpg "Debbee, Chairperson")Debbee, Ph.D
+
+Chairperson, Advisory Council
+
+Debbee is a dedicated community leader and advocate for veteran healing, guiding individuals through rites of passage that honor transformation and resilience. With a background in Organizational Leadership, she has worked extensively to support veterans in reconnecting with themselves, their communities, and the natural world. As a member of the Advisory Council, Debbee brings her deep wisdom, experience, and passion for mentorship to ensure Wilderness Pathfinder Connections thrives. Her commitment to fostering inclusive and powerful spaces for healing makes her an invaluable part of the team.
+
+As Chairperson of the Advisory Council for Wilderness Pathfinder Connections, she brings extensive experience in leadership development, mentorship, and community-building. Her expertise ensures the organization’s strength and sustainability, helping to break down barriers to nature-based healing and leadership. Debbee’s passion for empowering veterans and fostering meaningful connection makes her an integral force in shaping the future of this movement.

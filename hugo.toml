@@ -44,7 +44,7 @@ id = ""
     identifier = "section.our_story"
     url        = "/mission/"
     weight     = 
-    parent     = "menu.home"
+    parent     = "menu.our_story"
     post       = 2
 
 [[menu.main]]

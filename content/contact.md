@@ -10,35 +10,59 @@ We welcome inquiries, collaborations, and connections. Whether you have question
 4. Message
 5. Submit Button (**\[Send Message\]**)
 
+   &nbsp;
+
+   &nbsp;
+
+   # Frequently Asked Questions
+
+   Have questions? Below are answers to some of the most common inquiries about our programs, mentorship, and ways to get involved. If you don’t see what you’re looking for, feel free to reach out through our contact form.
+
    ## <br>1\. WHAT IS WILDERNESS PATHFINDER CONNECTIONS?
 
    We are a nonprofit supporting women veterans in becoming Rite of Passage Wilderness Guides.
-   * Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-   * Aliquam tincidunt mauris eu risus.
-   * Vestibulum auctor dapibus neque.
+
+   &nbsp;
 
    ## 2\. DO YOU RUN YOUR OWN CEREMONIES?
 
    No, we fund and support guides. We honor diverse traditions and cultural practices rather than creating our own.
 
+   &nbsp;
+
    ## 3\. WHO CAN BECOME A GUIDE?
 
    Anyone! But we focus on women veterans interested in nature-based rites of passage, leadership, and mentorship.
 
+   &nbsp;
+
    ## 4\. HOW DO I GET INVOLVED?
 
    You can apply for mentorship, attend events, or support the community through donations and volunteering.
-   * Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-   * Aliquam tincidunt mauris eu risus.
-   * Vestibulum auctor dapibus neque.
 
-   ## 5\. HOW DO I DONATE?
+   &nbsp;
+
+   ## 5\. WHO CAN PARTICIPATE IN YOUR PROGRAMS?
+
+   Our programs are designed for women veterans, but we also welcome supporters and allies in mentorship roles.
+
+   &nbsp;
+
+   ## 6\. HOW DO I DONATE?
 
    (COMING SOON)
 
-   ## 6\. WHERE DO DONATIONS GO?
+   &nbsp;
+
+   ## 7\. WHERE DO DONATIONS GO?
 
    Funds support training, scholarships, access to ceremonies, and resources for guides.
+
+   &nbsp;
+
+   ## 8\. ARE DONATIONS TAX-DEDUCTIBLE?
+
+   Yes! Wilderness Pathfinder Connections is a 501(c)(3) nonprofit, and your donation is tax-deductible.
 
    ---
 

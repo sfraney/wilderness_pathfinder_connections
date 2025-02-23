@@ -48,12 +48,6 @@ id = ""
     post       = 
 
 [[menu.main]]
-    name       = "Mission Statement"
-    url        = "/mission/"
-    weight     = 1
-    parent     = "section.our_mission"
-
-[[menu.main]]
     name       = "Our Advisory Council"
     url        = "/advisory/"
     weight     = 2

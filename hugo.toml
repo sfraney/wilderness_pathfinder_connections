@@ -34,8 +34,14 @@ id = ""
     weight     = 1
 
 [[menu.main]]
-    name       = "Our Mission"
-    identifier = "section.our_mission"
+    name       = "Our Story"
+    identifier = "menu.our_story"
+    url        = ""
+    weight     = 2
+    
+[[menu.main]]
+    name       = "Our Mission & Vission"
+    identifier = "section.our_story"
     url        = "/"
     weight     = 2
     parent     = "menu.home"
@@ -53,11 +59,6 @@ id = ""
     weight     = 2
     parent     = "section.our_mission"
 
-[[menu.main]]
-    name       = "Our Story"
-    identifier = "menu.our_story"
-    url        = ""
-    weight     = 2
 
 [[menu.main]]
     name       = "Our Advisory Council"
@@ -139,15 +140,16 @@ id = ""
     parent     = "menu.resources"
 
 [[menu.main]]
+    name       = "Donate"
+    url        = "/donate/"
+    weight     = 4
+    
+[[menu.main]]
     name       = "Contact"
     identifier = "menu.contact"
     url        = ""
-    weight     = 4
-
-[[menu.main]]
-    name       = "Donate"
-    url        = "/donate/"
     weight     = 5
+
 
 # Top bar social links menu
 

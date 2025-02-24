@@ -88,19 +88,25 @@ id = ""
     post       = 1
 
 [[menu.main]]
-    name       = "Mentorship"
+    name       = "Become a Mentor"
     url        = "section.Mentorship"
     weight     = 3
     parent     = "menu.get_involved"
     post       = 1
     
 [[menu.main]]
-    name       = "Join the Guide Network"
+    name       = "Join  Guide Network"
     url        = "section.How_to_Join_Guide_Network"
     weight     = 4
     parent     = "menu.get_involved"
     post       = 1
-    
+
+[[menu.main]]
+    name       = "Events & Resources"
+    url        = "/img/template-homepage.png"
+    weight     = 4
+    parent     = "menu.get_involved"
+    post       = 1
     
 [[menu.main]]
     name       = "Shop to Support"
@@ -110,7 +116,7 @@ id = ""
     post       = 1
     
 [[menu.main]]
-    name       = "Events & Resources"
+    name       = ""
     identifier = "menu.resources"
     url        = "/img/template-homepage.png"
     weight     = 4

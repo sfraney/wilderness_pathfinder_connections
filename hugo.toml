@@ -121,14 +121,14 @@ id = ""
     weight     = 1
     parent     = "menu.resources"
 
-    /img/logo-medium.png
+#    /img/logo-medium.png
 [[menu.main]]
     name       = "Contact"
     identifier = "menu.contact"
     url        = ""
     weight     = 4
     
-[menu.main]]
+[[menu.main]]
     name       = "Donate"
     url        = "/donate/"
     weight     = 5

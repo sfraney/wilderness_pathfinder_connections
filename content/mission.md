@@ -1,7 +1,19 @@
 +++
-title = "Mission Statement"
-description = "Our Mission Statement"
-keywords = [ "mission" ]
+title = "Mission & Vision"
+description = "Learn about the heart of Wilderness Pathfinder Connections—our story, mission, and vision. Discover why we are dedicated to empowering women veterans through nature-based rites of passage and leadership training."
+keywords = [
+  "mission",
+  "our story",
+  "women veterans",
+  "nonprofit mission",
+  "vision statement",
+  "wilderness healing",
+  "empowerment",
+  "rite of passage",
+  "community",
+  "leadership",
+  "outdoor programs"
+]
 +++
 ## Our Story
 

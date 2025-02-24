@@ -1,6 +1,17 @@
 +++
 title = "Donate"
-keywords = [ "donate", "support" ]
+keywords = [
+  "donate",
+  "support",
+  "support women veterans",
+  "nonprofit donation",
+  "haritable giving",
+  "nature-based healing",
+  "mentorship funding",
+  "wilderness programs",
+  "veteran empowerment",
+  "tax-deductible donation"
+]
 +++
 # Support Wilderness Pathfinder Connections
 

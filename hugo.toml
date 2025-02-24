@@ -116,7 +116,7 @@ id = ""
     post       = 1
     
 [[menu.main]]
-    name       = ""
+    name       = "Events & Resources"
     identifier = "menu.resources"
     url        = "/img/template-homepage.png"
     weight     = 4

@@ -77,7 +77,7 @@ id = ""
 [[menu.main]]
     name       = "Meet Our Team"
     url        = "/team/"
-    weight     = 1
+    weight     = 
     parent     = "section.our_work"
 
 [[menu.main]]

@@ -8,7 +8,8 @@ We welcome inquiries, collaborations, and connections. Whether you have question
 2. Email (Required)
 3. Subject (Dropdown: General Inquiry, Volunteering, Mentorship, Donations, Other)
 4. Message
-5. Submit Button (**\[Send Message\]**)
+
+   (**\[Send Message\]**)
 
    &nbsp;
 

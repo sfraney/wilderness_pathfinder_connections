@@ -26,6 +26,6 @@ Mentorship is at the heart of Wilderness Pathfinder Connections. By becoming a m
 
 &nbsp;
 
-**\[Apply to Become a Mentor\]**
+<p align=center>**\[Apply to Become a Mentor\]**
 
-(Button leading to application form)
+<p align=center>(Button leading to application form)

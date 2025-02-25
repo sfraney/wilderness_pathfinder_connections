@@ -57,7 +57,7 @@ id = ""
   
 [[menu.main]]
     name       = "Follow our Journey"
-    identifier = "section.blog"
+
     url        = "/blog/"
     weight     = 3
     parent     = "menu.our_story"

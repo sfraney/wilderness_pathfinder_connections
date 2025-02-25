@@ -52,6 +52,7 @@ id = ""
     url        = "/advisory/"
     weight     = 2
     parent     = "menu.our_story"
+    post       = 1
   
 [[menu.main]]
     name       = "Blog"

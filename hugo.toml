@@ -55,7 +55,7 @@ id = ""
     post       = 1
   
 [[menu.main]]
-    name       = "Blog"
+    name       = "Follow our Journey"
     identifier = "section.blog"
     url        = "/blog/"
     weight     = 3
@@ -75,8 +75,6 @@ id = ""
     weight     = 1
     parent     = "menu.get_involved"
     post       = 1
-
-
 
 [[menu.main]]
     name       = "Volunteer"

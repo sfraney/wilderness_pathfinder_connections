@@ -79,9 +79,9 @@ id = ""
 [[menu.main]]
     name       = "Volunteer"
     url        = "section.Volunteer"
-    weight     = 1
+    weight     = 2
     parent     = "menu.get_involved"
-    post       = 2
+    post       = 1
 
 [[menu.main]]
     name       = "Become a Mentor"

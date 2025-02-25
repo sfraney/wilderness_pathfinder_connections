@@ -20,7 +20,7 @@ The Advisory Council of Wilderness Pathfinder Connections is composed of dedicat
 
 &nbsp;
 
-![Latino woman holding a camping lantern up to her face to illuminate the area](/uploads/maria-400.jpg "Maria in basecamp")
+![Latina girl](/uploads/62086-1.jpg "Maria in Mexico")
 
 ## Maria
 

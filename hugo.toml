@@ -120,7 +120,6 @@ id = ""
 [[menu.main]]
     name       = "Contact"
     identifier = "/contact/"
-    url        = ""
     weight     = 5
     
 [[menu.main]]

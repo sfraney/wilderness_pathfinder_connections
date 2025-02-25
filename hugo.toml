@@ -49,6 +49,7 @@ id = ""
 
 [[menu.main]]
     name       = "Our Advisory Council"
+    identifier = "section.advisory"
     url        = "/advisory/"
     weight     = 2
     parent     = "menu.our_story"

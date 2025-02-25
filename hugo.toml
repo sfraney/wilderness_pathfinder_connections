@@ -85,14 +85,14 @@ id = ""
 
 [[menu.main]]
     name       = "Become a Mentor"
-    url        = "section.Mentorship"
+    url        = "/section.Mentorship/"
     weight     = 3
     parent     = "menu.get_involved"
     post       = 1
     
 [[menu.main]]
     name       = "Join  Guide Network"
-    url        = "section.How_to_Join_Guide_Network"
+    url        = "/section.How_to_Join_Guide_Network/"
     weight     = 4
     parent     = "menu.get_involved"
     post       = 1
@@ -112,7 +112,7 @@ id = ""
 
 [[menu.main]]
     name       = "Private Membership Portal"
-    url        = "section.Closed_Membership_Portal"
+    url        = "/section.Closed_Membership_Portal/"
     weight     = 1
     parent     = "menu.resources"
 

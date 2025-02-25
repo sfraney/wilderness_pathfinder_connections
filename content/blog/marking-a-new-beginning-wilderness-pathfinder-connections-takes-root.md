@@ -1,6 +1,6 @@
 +++
 title = "Marking a New Beginning: Wilderness Pathfinder Connections Takes Root"
-date = 2021-08-14T19:29:00.000Z
+date = 2025-02-15T03:29:00.000Z
 tags = [ "new", "begininnings", "building" ]
 categories = [ "milestone", "update" ]
 banner = "img/Sunrise-in-Indianola.jpg"

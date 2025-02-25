@@ -17,7 +17,7 @@ keywords = [
 +++
 ## Our Story
 
-For years, we dedicated ourselves to organizations that support veterans, believing in the power of ceremony, healing, and community. However, time and time again, we encountered barriers—roadblocks that limited access, created unnecessary hurdles for those seeking guidance, and upheld systemic issues that have historically kept women and people of color from leadership roles. The lack of resources and funding made these challenges even more difficult to overcome, and too often, passionate individuals eager to contribute were left unsupported.
+For years, we dedicated ourselves to organizations that support others, believing in the power of ceremony, healing, and community. However, time and time again, we encountered barriers—roadblocks that limited access, created unnecessary hurdles for those seeking guidance, and upheld systemic issues that have historically kept women and people of color from leadership roles. The lack of resources and funding made these challenges even more difficult to overcome, and too often, passionate individuals eager to contribute were left unsupported.
 
 We saw a pattern: passionate individuals, eager to learn and contribute, were often met with resistance instead of support. Promises of mentorship rarely materialized, funding for initiatives felt out of reach, and transparency was lacking. Women and people of color, in particular, were frequently asked to give their labor for free—an all-too-common experience across many spaces.
 

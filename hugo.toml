@@ -49,7 +49,7 @@ id = ""
 
 [[menu.main]]
     name       = "Our Advisory Council"
-    url        = "/advisory/"
+    url        = "/advisory_council/"
     weight     = 2
     parent     = "menu.our_story"
     post       = 1

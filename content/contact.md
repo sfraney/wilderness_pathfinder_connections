@@ -23,8 +23,6 @@ We welcome inquiries, collaborations, and connections. Whether you have question
 
    We are a nonprofit supporting women veterans in becoming Rite of Passage Wilderness Guides.
 
-   &nbsp;
-
    ## 2\. DO YOU RUN YOUR OWN CEREMONIES?
 
    No, we fund and support guides. We honor diverse traditions and cultural practices rather than creating our own.

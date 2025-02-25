@@ -60,6 +60,7 @@ id = ""
     url        = "/blog/"
     weight     = 3
     parent     = "menu.our_story"
+    post       = 1
 
 [[menu.main]]
     name       = "Get Involved"

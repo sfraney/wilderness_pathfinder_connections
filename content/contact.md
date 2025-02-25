@@ -29,19 +29,13 @@ We welcome inquiries, collaborations, and connections. Whether you have question
 
    No, we fund and support guides. We honor diverse traditions and cultural practices rather than creating our own.
 
-   &nbsp;
-
    ## 3\. WHO CAN BECOME A GUIDE?
 
    Anyone! But we focus on women veterans interested in nature-based rites of passage, leadership, and mentorship.
 
-   &nbsp;
-
    ## 4\. HOW DO I GET INVOLVED?
 
    You can apply for mentorship, attend events, or support the community through donations and volunteering.
-
-   &nbsp;
 
    ## 5\. WHO CAN PARTICIPATE IN YOUR PROGRAMS?
 
@@ -53,13 +47,9 @@ We welcome inquiries, collaborations, and connections. Whether you have question
 
    (COMING SOON)
 
-   &nbsp;
-
    ## 7\. WHERE DO DONATIONS GO?
 
    Funds support training, scholarships, access to ceremonies, and resources for guides.
-
-   &nbsp;
 
    ## 8\. ARE DONATIONS TAX-DEDUCTIBLE?
 

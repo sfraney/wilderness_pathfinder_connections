@@ -79,7 +79,7 @@ id = ""
 [[menu.main]]
     name       = "Volunteer"
     url        = "section.Volunteer"
-    weight     = 2
+    weight     = 1
     parent     = "menu.get_involved"
     post       = 2
 

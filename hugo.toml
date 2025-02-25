@@ -99,12 +99,7 @@ id = ""
     parent     = "menu.get_involved"
     post       = 1
 
-[[menu.main]]
-    name       = "Events & Resources"
-    url        = "/img/template-homepage.png"
-    weight     = 4
-    parent     = "menu.get_involved"
-    post       = 1
+
     
 [[menu.main]]
     name       = "Shop to Support"

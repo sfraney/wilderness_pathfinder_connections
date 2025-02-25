@@ -127,7 +127,6 @@ id = ""
     weight     = 1
     parent     = "menu.resources"
 
-#    /img/logo-medium.png
 [[menu.main]]
     name       = "Contact"
     identifier = "menu.contact"

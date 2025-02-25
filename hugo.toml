@@ -74,11 +74,7 @@ id = ""
     parent     = "menu.get_involved"
     post       = 1
 
-[[menu.main]]
-    name       = "Meet Our Team"
-    url        = "/team/"
-    weight     = 
-    parent     = "section.our_work"
+
 
 [[menu.main]]
     name       = "Volunteer"

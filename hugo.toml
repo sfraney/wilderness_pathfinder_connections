@@ -49,7 +49,7 @@ id = ""
 
 [[menu.main]]
     name       = "Our Advisory Council"
-    url        = "/advisory_council/"
+    url        = "https://spiffy-spider.cloudvent.net/advisory/"
     weight     = 2
     parent     = "menu.our_story"
     post       = 1

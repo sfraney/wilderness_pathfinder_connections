@@ -132,6 +132,14 @@ nav ul li.donate-button a:hover {
   background-color: #e65c00; /* Slightly darker on hover */
 }
 
+<nav>
+  <ul>
+    <li><a href="/">Home</a></li>
+    <li><a href="/about/">About</a></li>
+    <li class="donate-button"><a href="/donate/">Donate</a></li>
+  </ul>
+</nav>
+
 # Top bar social links menu
 
 [[menu.topbar]]

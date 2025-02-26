@@ -30,7 +30,7 @@ id = ""
 [[menu.main]]
     name       = "Home"
     identifier = "menu.home"
-    url        = "/https://wildpathfinder.org/"
+    url        = "/home/"
     weight     = 1
 
 [[menu.main]]

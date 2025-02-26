@@ -62,7 +62,7 @@ id = ""
 
 [[menu.main]]
     name       = "Get Involved"
-    parent     = "menu.get_involved"
+    identifier = "menu.get_involved"
     url        = "/"
     weight     = 3
 

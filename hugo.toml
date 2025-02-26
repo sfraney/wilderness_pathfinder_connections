@@ -41,14 +41,14 @@ id = ""
     
 [[menu.main]]
     name       = "Our Mission & Vision"
-    url        = "/mission/"
+    url        = "/our_story/mission/"
     weight     = 1
     parent     = "menu.our_story"
 
 [[menu.main]]
     name       = "Our Advisory Council"
     identifier = "section.advisory"
-    url        = "/advisory/"
+    url        = "/our_story/advisory/"
     weight     = 2
     parent     = "menu.our_story"
     post       = 1
@@ -70,28 +70,28 @@ id = ""
 
 [[menu.main]]
     name       = "Volunteer"
-    url        = "/volunteer/"
+    url        = "/get_involved/volunteer/"
     weight     = 4
     parent     = "menu.get_involved"
 
 
 [[menu.main]]
     name       = "Become a Mentor"
-    url        = "/mentorship/"
+    url        = "/get_involved/mentorship/"
     weight     = 1
     parent     = "menu.get_involved"
 
     
 [[menu.main]]
     name       = "Join  Guide Network"
-    url        = "/guide_network/"
+    url        = "/get_involved/guide_network/"
     weight     = 3
     parent     = "menu.get_involved"
     post       = 1
     
 [[menu.main]]
     name       = "Shop to Support"
-    url        = "/section.Shop_to_Support/"
+    url        = "/get_involved/section.Shop_to_Support/"
     weight     = 5
     parent     = "menu.get_involved"
     post       = 1

@@ -34,7 +34,7 @@ As a member of the Advisory Council, Debbee brings her deep wisdom, experience, 
 
 ## Sher
 
-<p style="text-align:center;">Co-Founder & Advisory Council Member</p>
+Co-Founder & Advisory Council Member
 
 Shari is a visionary leader and dedicated advocate for women veterans, committed to creating transformative spaces for healing, leadership, and empowerment. As a Rite of Passage wilderness guide and co-founder of Wilderness Pathfinder Connections, she brings years of experience in mentorship, community building, and nature-based rites of passage. With a deep understanding of the challenges women veterans face, Shari works to break down barriers to healing and ensure that every woman who seeks transformation through nature has the support and resources to step into her power. Her leadership drives the organization’s mission forward, fostering resilience, connection, and a movement of veteran women reclaiming their strength.
 

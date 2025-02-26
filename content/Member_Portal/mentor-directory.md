@@ -3,7 +3,7 @@ title = "Mentor Directory"
 description = "A directory of experienced mentors offering guidance, wisdom, and support. Here, you can find and connect with mentors who align with your path, whether you are just beginning or seeking deeper learning. This directory ensures a clear and intentional process for mentor-mentee relationships."
 keywords = [ "mentor", "directory", "network" ]
 +++
-Welcome to the Mentor Directory, where you can connect with experienced guides who align with your journey. Whether you’re seeking support, learning opportunities, or guidance, this space is designed to foster meaningful mentor-mentee relationships.<br><br>A network of experienced mentors offering guidance, wisdom, and support. Here, you can find and connect with mentors who align with your path, whether you are just beginning or seeking deeper learning. This directory ensures a clear and intentional process for mentor-mentee relationships.
+Welcome to the Mentor Directory—a network of experienced mentors offering guidance, wisdom, and support. Whether you’re just beginning or seeking deeper learning, this directory helps you find the right mentor to walk alongside you on your journey. Each connection is intentional, ensuring that mentorship is meaningful, transformative, and aligned with your path.
 
 ### Mentor Network Structure
 

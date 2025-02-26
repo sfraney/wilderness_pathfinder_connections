@@ -11,7 +11,7 @@ keywords = [
   "collective"
 ]
 +++
-A space for connection, conversation, and collective wisdom. Engage in discussions on various topics related to our mission, ask questions, share experiences, and support one another in a dynamic and evolving community<br><br>Naming the Mentor Network
+This is your space to connect, ask questions, and engage in conversations that matter. The Community Forum is where experiences are shared, wisdom is exchanged, and support is given. Join the discussion, explore topics related to our mission, and become part of the collective voice shaping this work.<br><br>Naming the Mentor Network
 
 To align with your nonprofit’s themes, consider names like:
 

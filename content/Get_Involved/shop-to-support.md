@@ -16,6 +16,6 @@ keywords = [
   "organizational leadership"
 ]
 +++
-Support our mission through conscious shopping. Every item in our store is chosen with care, and proceeds help fund mentorship, retreats, and programs that uplift our community.
+When you shop with us, you're not just buying a product—you're investing in a movement. Every purchase directly supports the mission of Wilderness Pathfinder Connections, funding mentorship programs, retreats, and community initiatives. Our store offers meaningful, items selected with care that reflect our values. Whether you're wearing our message, gifting with purpose, or carrying a reminder of this journey, your support fuels transformation.
 
 &nbsp;

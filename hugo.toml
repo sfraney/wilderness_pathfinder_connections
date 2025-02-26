@@ -90,7 +90,7 @@ id = ""
     
 [[menu.main]]
     name       = "Join  Guide Network"
-    url        = "/guide-network/"
+    url        = "/guide_network/"
     weight     = 3
     parent     = "menu.get_involved"
     post       = 1

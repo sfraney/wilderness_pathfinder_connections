@@ -1,17 +1,9 @@
 +++
 title = "Mentor Directory"
-description = "A network of experienced mentors offering guidance, wisdom, and support. Here, you can find and connect with mentors who align with your path, whether you are just beginning or seeking deeper learning. This directory ensures a clear and intentional process for mentor-mentee relationships."
+description = "A directory of experienced mentors offering guidance, wisdom, and support. Here, you can find and connect with mentors who align with your path, whether you are just beginning or seeking deeper learning. This directory ensures a clear and intentional process for mentor-mentee relationships."
 keywords = [ "mentor", "directory", "network" ]
 +++
-#### Naming the Mentor Network
-
-To align with your nonprofit’s themes, consider names like:
-
-* **Pathfinder Mentors** (straightforward)
-* **The Circle of Guides** (symbolic, more community-oriented)
-* **The Waymark Network** (a waymark is a trail marker)
-
-Would you prefer something simple or something with more depth?
+Welcome to the Mentor Directory, where you can connect with experienced guides who align with your journey. Whether you’re seeking support, learning opportunities, or guidance, this space is designed to foster meaningful mentor-mentee relationships.<br><br>A network of experienced mentors offering guidance, wisdom, and support. Here, you can find and connect with mentors who align with your path, whether you are just beginning or seeking deeper learning. This directory ensures a clear and intentional process for mentor-mentee relationships.
 
 ### Mentor Network Structure
 

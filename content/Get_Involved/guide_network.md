@@ -1,6 +1,6 @@
 +++
 title = "Join Guide Network"
-description = ""
+description = "A space for leaders, facilitators, and experienced guides who are called to support our mission. This network strengthens our community by offering mentorship, wisdom, and collective leadership."
 keywords = [
   "advisory",
   "council",
@@ -16,7 +16,7 @@ keywords = [
   "organizational leadership"
 ]
 +++
-Wilderness Pathfinder Connections is building a powerful network of women veterans trained as wilderness guides. By joining, you gain access to mentorship, resources, and a supportive community dedicated to rites of passage work.
+Wilderness Pathfinder Connections is building a powerful network of women veterans trained as wilderness guides. As a member, you gain access to mentorship, resources, and a supportive community dedicated to rites of passage work. Our network is more than just a connection—it’s a movement. Whether you're an experienced guide or feeling called to serve in a deeper way, we welcome you to step into this transformative work.
 
 **Benefits of Joining:**<br>✔ Funding for training and workshops<br>✔ Networking with experienced guides<br>✔ Opportunities to lead and support programs
 

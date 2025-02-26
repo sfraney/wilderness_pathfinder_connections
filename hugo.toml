@@ -41,7 +41,7 @@ id = ""
     
 [[menu.main]]
     name       = "Our Mission & Vision"
-    url        = "/"
+    url        = "/mission/"
     weight     = 1
     parent     = "menu.our_story"
 
@@ -63,7 +63,7 @@ id = ""
 [[menu.main]]
     name       = "Get Involved"
     identifier = "menu.get_involved"
-    url        = "/"
+    url        = ""
     weight     = 3
 
 [[menu.main]]

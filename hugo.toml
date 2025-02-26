@@ -79,9 +79,9 @@ id = ""
 [[menu.main]]
     name       = "Volunteer"
     url        = "/volunteer/"
-    weight     = 4
+    weight     = 1
     parent     = "menu.get_involved"
-    post       = 1
+    post       = 2
 
 [[menu.main]]
     name       = "Become a Mentor"
@@ -100,9 +100,9 @@ id = ""
 [[menu.main]]
     name       = "Shop to Support"
     url        = "/section.Shop_to_Support/"
-    weight     = 5
+    weight     = 2
     parent     = "menu.get_involved"
-    post       = 1
+    post       = 2
     
 [[menu.main]]
     name       = "Events & Resources"

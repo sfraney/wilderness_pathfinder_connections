@@ -83,10 +83,10 @@ id = ""
 
 [[menu.main]]
     name       = "Become a Mentor"
-    url        = "/"
+    url        = "/mentorship/"
     weight     = 2
     parent     = "menu.get_involved"
-    post       = 1
+
     
 [[menu.main]]
     name       = "Join  Guide Network"

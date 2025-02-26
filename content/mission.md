@@ -15,7 +15,7 @@ keywords = [
   "outdoor programs"
 ]
 +++
-## Our Story
+## The Story Behind Our Nonprofit
 
 For years, we dedicated ourselves to organizations that support veterans, believing in the power of ceremony, healing, and community. However, time and time again, we encountered barriers—roadblocks that limited access, created unnecessary hurdles for those seeking guidance, and upheld systemic issues that have historically kept women and people of color from leadership roles. The lack of resources and funding made these challenges even more difficult to overcome, and too often, passionate individuals eager to contribute were left unsupported.
 

@@ -118,15 +118,7 @@ id = ""
     name       = "Donate"
     url        = "/donate"
     weight     = 6
-    <nav>
-  <ul>
-    {{ range .Site.Menus.main }}
-    <li {{ if eq .URL "/donate/" }}class="donate-button"{{ end }}>
-        <a href="{{ .URL }}">{{ .Name }}</a>
-    </li>
-    {{ end }}
-  </ul>
-</nav>
+    
 
 # Top bar social links menu
 

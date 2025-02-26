@@ -16,4 +16,4 @@ keywords = [
   "organizational leadership"
 ]
 +++
-Volunteers are the hands and heart of our work. Whether you bring expertise in facilitation, logistics, outreach, or simply a passion for service, your contributions help shape transformative experiences for our community. Explore the different ways you can get involved and make an impact today.
+Make an impact—your time, skills, and passion can change lives. Whether it’s supporting retreats, helping with events, or lending your expertise behind the scenes, there’s a place for you in this movement. Volunteering with Wilderness Pathfinder Connections means becoming part of a community that’s actively working toward healing and empowerment. Ready to contribute in a meaningful way? Let’s get started!

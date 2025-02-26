@@ -78,7 +78,7 @@ id = ""
 
 [[menu.main]]
     name       = "Volunteer"
-    url        = "section.Volunteer"
+    url        = "/Volunteer/"
     weight     = 2
     parent     = "menu.get_involved"
     post       = 1

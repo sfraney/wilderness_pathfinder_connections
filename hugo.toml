@@ -70,7 +70,7 @@ id = ""
     name       = "Our Work"
     identifier = "section.our_work"
     url        = ""
-    weight     = 
+    weight     = 1
     parent     = "menu.get_involved"
     post       = ""
 

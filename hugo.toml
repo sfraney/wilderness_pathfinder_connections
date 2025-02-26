@@ -85,7 +85,7 @@ id = ""
 
 [[menu.main]]
     name       = "Become a Mentor"
-    url        = "/mentorship/"
+    url        = "/section.mentorship/"
     weight     = 2
     parent     = "menu.get_involved"
     post       = 1

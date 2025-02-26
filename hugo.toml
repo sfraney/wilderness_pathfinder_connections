@@ -122,7 +122,7 @@ id = ""
     
 [[menu.main]]
     name       = "Donate"
-    url        = "/donate/"
+    url        = "/donate"
     weight     = 6
 
 # Top bar social links menu

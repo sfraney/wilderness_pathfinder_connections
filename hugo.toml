@@ -30,7 +30,7 @@ id = ""
 [[menu.main]]
     name       = "Home"
     identifier = "menu.home"
-    url        = "/home/"
+    url        = "/"
     weight     = 1
 
 [[menu.main]]

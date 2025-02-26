@@ -16,8 +16,6 @@ keywords = [
   "organizational leadership"
 ]
 +++
-
-<p style="text-align:right;">Text_content</p>
 The Advisory Council of Wilderness Pathfinder Connections is composed of dedicated leaders, mentors, and advocates committed to empowering women veterans through nature-based rites of passage. Together, we provide guidance, strategic vision, and support to further our mission.
 
 &nbsp;

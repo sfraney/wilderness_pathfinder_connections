@@ -30,12 +30,27 @@ Mentorship is at the heart of Wilderness Pathfinder Connections. By becoming a m
 
 (Button leading to application form)
 
-<form action="/submit-form" method="post">
-  <label for="name">Name:</label>
-  <input type="text" id="name" name="name" required>
+<form method="post" action="/success.html">
+  <label>Email Address</label>
+  <input type="text" name="email">
 
-  <label for="email">Email:</label>
-  <input type="email" id="email" name="email" required>
+  <label>Name</label>
+  <input type="text" name="name">
 
-  <button type="submit">Submit</button>
+  <label>Message</label>
+  <textarea name="message"></textarea>
+
+  <label>Urgent</label>
+  <input type="checkbox" name="urgent">
+
+  <label>Type of Enquiry</label>
+  <input type="radio" name="_subject" value="Sales Enquiry"> Sales
+  <input type="radio" name="_subject" value="General Enquiry"> General
+
+  <input type="hidden" name="inbox_key" value="contact_inbox">
+  <input type="hidden" name="_to" value="sales@example.com,support@example.com">
+  <input type="hidden" name="_cc" value="sales.tracker@example.com">
+  <input type="text" name="_gotcha" style="display: none;">
+
+  <input type="submit" value="Send Message">
 </form>

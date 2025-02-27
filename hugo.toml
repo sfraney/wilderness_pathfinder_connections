@@ -118,6 +118,11 @@ id = ""
     name       = "Donate"
     url        = "/donate"
     weight     = 6
+     icon = "far fa-file-alt"
+    title = "Join Us in the Journey"
+    subtitle = "Be part of a movement that uplifts women veterans through nature-based healing leadership. Whether through training, support, or funding, your involvement makes a difference."
+    link_url = "#"
+    link_text = "Get Involved | Donate"
     
 
 # Top bar social links menu

@@ -10,9 +10,18 @@ Our journey is one of resilience, leadership, and transformation. Through our bl
 &nbsp;
 
 ## Latest Stories from the Journey
-    name       = "Follow our Journey"
-    url        = "/blog/"
+
+```
+name       = "Follow our Journey"
+url        = "/blog/"
+```
+
+1. Display **recent blog posts** (3-6 entries, depending on design).
+2. Include featured images, short excerpts, and a **“Read More”** button.
+3. Optional: Have categories/tags for posts (e.g., *Reflections, Field Notes, Community Stories*).
 
 &nbsp;
 
-<br><br>*Want to follow our journey? Read our latest updates, stories, and insights in our blog!*<br><a href="https://wildpathfinder.org/blog/" title="Blog" target="_blank" rel="noopener"><strong>Read More</strong></a>
+## Stay Connected—Join Our Newsletter
+
+Be the first to hear about new stories, reflections, and upcoming events. Sign up for our newsletter and walk this path with us!<br><br>*Want to follow our journey? Read our latest updates, stories, and insights in our blog!*<br><a href="https://wildpathfinder.org/blog/" title="Blog" target="_blank" rel="noopener"><strong>Read More</strong></a>

@@ -29,3 +29,13 @@ Mentorship is at the heart of Wilderness Pathfinder Connections. By becoming a m
 **\[Apply to Become a Mentor\]**
 
 (Button leading to application form)
+
+<form action="/submit-form" method="post">
+  <label for="name">Name:</label>
+  <input type="text" id="name" name="name" required>
+
+  <label for="email">Email:</label>
+  <input type="email" id="email" name="email" required>
+
+  <button type="submit">Submit</button>
+</form>

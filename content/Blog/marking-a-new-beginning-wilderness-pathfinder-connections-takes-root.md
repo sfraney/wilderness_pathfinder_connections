@@ -1,8 +1,21 @@
 +++
 title = "Marking a New Beginning: Wilderness Pathfinder Connections Takes Root"
-date = 2025-02-15T03:29:00.000Z
-tags = [ "new", "begininnings", "building" ]
-categories = [ "milestone", "update" ]
+date = 2025-02-14T11:29:00.000Z
+tags = [
+  "Wilderness Pathfinder Connections",
+  "women veterans",
+  "Rite of Passage",
+  "Wilderness Guides",
+  "mentorship",
+  "nature-based healing",
+  "leadership development"
+]
+categories = [
+  "Veteran Support",
+  "Community Building",
+  "Wilderness Programs",
+  ""
+]
 banner = "img/Sunrise-in-Indianola.jpg"
 authors = [ "Sher" ]
 +++

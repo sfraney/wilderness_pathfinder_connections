@@ -46,7 +46,6 @@ Mentorship is at the heart of Wilderness Pathfinder Connections. By becoming a m
   <label>Type of Enquiry</label>
   <input type="radio" name="_subject" value="Sales Enquiry"> Sales
   <input type="radio" name="_subject" value="General Enquiry"> General
-
   <input type="hidden" name="inbox_key" value="contact_inbox">
   <input type="hidden" name="_to" value="sales@example.com,support@example.com">
   <input type="hidden" name="_cc" value="sales.tracker@example.com">

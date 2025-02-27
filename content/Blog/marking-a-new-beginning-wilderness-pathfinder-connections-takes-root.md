@@ -13,8 +13,7 @@ tags = [
 categories = [
   "Veteran Support",
   "Community Building",
-  "Wilderness Programs",
-  ""
+  "Wilderness Programs"
 ]
 banner = "img/Sunrise-in-Indianola.jpg"
 authors = [ "Sher" ]

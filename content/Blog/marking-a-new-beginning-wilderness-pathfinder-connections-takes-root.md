@@ -7,7 +7,7 @@ tags = [
   "Rite of Passage",
   "Wilderness Guides",
   "mentorship",
-  "nature-based healing",
+  "nature-based healing leadership",
   "leadership development"
 ]
 categories = [
@@ -20,7 +20,7 @@ authors = [ "Sher" ]
 +++
 Today, we celebrate a milestone—the official formation of Wilderness Pathfinder Connections! What began as a vision has now taken root, and we couldn’t be more excited to embark on this journey with you.
 
-Our mission is simple yet profound: to **fund, equip, and support** women veterans as they step into their roles as Rite of Passage Wilderness Guides. By removing barriers and fostering connection, we ensure that **nature-based healing and leadership** remain accessible to those who seek them.
+Our mission is simple yet profound: to **fund, equip, and support** women veterans as they step into their roles as Rite of Passage Wilderness Guides. By removing barriers and fostering connection, we ensure that **nature-based healing leadership** remain accessible to those who seek them.
 
 This isn’t just the start of an organization—it’s the continuation of a movement. A movement of women veterans stepping into their power, of traditions being honored, and of community and mentorship lighting the way for those who come next.
 

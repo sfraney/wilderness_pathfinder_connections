@@ -67,3 +67,7 @@ forms:
         placeholder: Submit form
         required: true
 ---
+
+{{ if (index page.Params.forms 0) }}
+  {{ partial "form.html" (dict "context" . "form" 0) }}
+{{ end }}

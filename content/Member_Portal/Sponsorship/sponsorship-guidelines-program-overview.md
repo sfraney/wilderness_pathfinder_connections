@@ -1,5 +1,5 @@
 +++
-title = "Sponsorship Guidelines, Program Overview"
+title = "ChatGPT Sponsorship Guidelines, Program Overview"
 description = ""
 keywords = [
   "book",

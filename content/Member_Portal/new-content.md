@@ -18,28 +18,21 @@ keywords = [
 <form action="/login" method="post">
   <div>
     <label for="username">Username:</label>
-    <input type="text" id="username" name="username" required>
+    <input type="text" id="username" name="username" required="" />
   </div>
-
   <div>
     <label for="password">Password:</label>
-    <input type="password" id="password" name="password" required>
+    <input type="password" id="password" name="password" required="" />
   </div>
-
   <div>
     <button type="submit">Login</button>
   </div>
-
   <div>
     <a href="/forgot-password">Forgot Password?</a>
   </div>
 </form>
 
-<p>
-    Not a member yet? <a href="/join">Join our community</a>
-</p>
-
-&nbsp;
+Not a member yet? [Join our community](/join)
 
 > This portal is your gateway to a vibrant community of women veterans and allies dedicated to nature-based healing, rites of passage, and wilderness leadership.
 

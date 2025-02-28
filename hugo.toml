@@ -104,7 +104,7 @@ id = ""
 
 [[menu.main]]
     name       = "Private Membership Portal"
-    url        = "/section.Closed_Membership_Portal/"
+    url        = "/member_portal/login/"
     weight     = 1
     parent     = "menu.resources"
 

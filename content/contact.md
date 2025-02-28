@@ -10,27 +10,9 @@ We welcome inquiries, collaborations, and connections. Whether you have question
 4. Message
 
    (**\[Send Message\]**)
-   
-<form method="post" action="/success.html">
-  <label>Email Address</label>
-  <input type="text" name="email">
 
-  <label>Name</label>
-  <input type="text" name="name">
-
-  <label>Message</label>
-  <textarea name="message"></textarea>
-
-  <label>Urgent</label>
-  <input type="checkbox" name="urgent">
-
-  <input type="hidden" name="Contact-Info" value="your-Contact-Info">
-  <input type="text" name="_gotcha" style="display: none;">
-
-  <input type="submit" value="Send Message">
-</form>
-
-
+config.toml
+config.yaml
 
    &nbsp;
 

@@ -17,11 +17,12 @@ A curated collection of books, essays, and articles that align with our mission,
 1. *Rites of Passage & Ceremony* (Books on initiation, cultural practices, healing)
 2. *Wilderness & Nature Connection* (Survival skills, ecology, land-based wisdom)
 3. *Leadership & Mentorship* (Women in leadership, guiding, storytelling)
-4. *Women’s Veteran Experience* (Personal stories, history, challenges, resilience)
+4. *Women’s Experience* (Personal stories, history, challenges, resilience)
    1. I**nvisible Women: Data Bias in a World Designed for**
 
       by [Caroline Criado Perez](https://www.amazon.com/Caroline-Criado-Perez/e/B07PBYWXR6/ref=dp_byline_cont_book_1)
 
+   2. Men Explain Things to Me by Rebecca Solnit
 5. *Trauma & Healing* (Mental health, post-military transition, holistic healing)
 6. Cultural Readings
    1. Filipino
@@ -32,6 +33,7 @@ A curated collection of books, essays, and articles that align with our mission,
       * *The Infinite Game* – Simon Sinek
       * *The Art of Gathering* – Priya Parker
       * *Tribes* – Seth Godin
+      * Never Eat Alone - Keith Ferrazzi, Tahl Raz
 
       #### **Nonprofit & Organizational Development:**
 
@@ -44,4 +46,6 @@ A curated collection of books, essays, and articles that align with our mission,
       * *The Gift of Therapy* – Irvin D. Yalom
       * *Holding Space: The Art of Facilitation* – Heather Plett
 
-The Presence Process - Michael Brown
+The Presence Process - Michael Brown<br>Quiet - Susan Cain
+
+Women Who Run with the Wolves - Clarissa Pinkola Estes, PhD

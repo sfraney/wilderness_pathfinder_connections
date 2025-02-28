@@ -32,7 +32,9 @@ keywords = [
   </div>
 </form>
 
-Not a member yet? [Join our community](/join)
+&nbsp;
+
+Not a member yet? <a href="https://spiffy-spider.cloudvent.net/get_involved/guide_network/" title="Join the Guide Network" target="_blank" rel="noopener">Join our community</a>
 
 > This portal is your gateway to a vibrant community of women veterans and allies dedicated to nature-based healing, rites of passage, and wilderness leadership.
 

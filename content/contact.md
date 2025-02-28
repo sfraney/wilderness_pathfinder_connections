@@ -24,17 +24,12 @@ We welcome inquiries, collaborations, and connections. Whether you have question
   <label>Urgent</label>
   <input type="checkbox" name="urgent">
 
-  <label>Type of Enquiry</label>
-  <input type="radio" name="_subject" value="Sales Enquiry"> Sales
-  <input type="radio" name="_subject" value="General Enquiry"> General
-
-  <input type="hidden" name="inbox_key" value="contact_inbox">
-  <input type="hidden" name="_to" value="sales@example.com,support@example.com">
-  <input type="hidden" name="_cc" value="sales.tracker@example.com">
+  <input type="hidden" name="Contact-Info" value="your-Contact-Info">
   <input type="text" name="_gotcha" style="display: none;">
 
   <input type="submit" value="Send Message">
 </form>
+
 
 
    &nbsp;

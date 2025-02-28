@@ -41,3 +41,5 @@ A curated collection of books, essays, and articles that align with our mission,
       * *The Body Keeps the Score* – Bessel van der Kolk
       * *The Gift of Therapy* – Irvin D. Yalom
       * *Holding Space: The Art of Facilitation* – Heather Plett
+
+The Presence Process

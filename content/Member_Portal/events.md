@@ -43,6 +43,8 @@ Wild Mountain Retreats provides a serene and supportive environment for personal
 
 <a href="https://www.circleforth.org/events" title="Circle Forth Events" target="_blank" rel="noopener"><img src="/uploads/image-5.png" alt="Link to Circle Forth Events Page" title="Circle Forth Events" /></a>
 
+Circle Forth offers workshops and programs focused on leadership development, communication skills, and personal empowerment in the context of nature. These programs can provide valuable skills and insights for those interested in guiding others through transformative experiences in the outdoors.
+
 &nbsp;
 
 <a href="https://s3-us-gov-west-1.amazonaws.com/content.www.va.gov/img/header-logo.png" title="VA Portland's Chaplain Services Groups Page" target="_blank" rel="noopener"><img src="/uploads/image-4.png" alt="Link to VA Portland's Events Page" title="VA Portland's Events Page" /></a>

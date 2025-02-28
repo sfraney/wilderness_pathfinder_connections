@@ -15,36 +15,7 @@ keywords = [
 +++
 # Welcome to the Wilderness Pathfinder Connections Member Portal
 
-<form action="/login" method="post">
-  <div>
-    <label for="username">Username:</label><br>
-    <input type="text" id="username" name="username" required>
-  </div>
 
-  <div>
-    <label for="password">Password:</label><br>
-    <input type="password" id="password" name="password" required>
-  </div>
-
-  <button type="submit">Login</button>
-</form>
-
-<form action="/login" method="post">
-  <div>
-    <label for="username">Username:</label>
-    <input type="text" id="username" name="username" required="" />
-  </div>
-  <div>
-    <label for="password">Password:</label>
-    <input type="password" id="password" name="password" required="" />
-  </div>
-  <div>
-    <button type="submit">Login</button>
-  </div>
-  <div>
-    <a href="/forgot-password">Forgot Password?</a>
-  </div>
-</form>
 
 &nbsp;
 

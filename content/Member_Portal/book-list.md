@@ -24,7 +24,9 @@ A curated collection of books, essays, and articles that align with our mission,
 
 5. *Trauma & Healing* (Mental health, post-military transition, holistic healing)
 6. Cultural Readings
-   1. Filipino<br><br>**Leadership & Mission-Driven Work:**
+   1. Filipino
+   2. Mexican
+   3. Latino<br><br>**Leadership & Mission-Driven Work:**
       * *Dare to Lead* – Brené Brown
       * *Leaders Eat Last* – Simon Sinek
       * *The Infinite Game* – Simon Sinek
@@ -42,4 +44,4 @@ A curated collection of books, essays, and articles that align with our mission,
       * *The Gift of Therapy* – Irvin D. Yalom
       * *Holding Space: The Art of Facilitation* – Heather Plett
 
-The Presence Process
+The Presence Process - Michael Brown

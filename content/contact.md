@@ -4,18 +4,11 @@ id = "contact"
 +++
 We welcome inquiries, collaborations, and connections. Whether you have questions about our mission, want to get involved, or need guidance, we are here to listen. Reach out, and we'll do our best to respond in a timely and thoughtful manner.
 
-1. Name (Required)
-2. Email (Required)
-3. Subject (Dropdown: General Inquiry, Volunteering, Mentorship, Donations, Other)
-4. Message
-
-   **\[Send Message\]**
-
-&nbsp;
+{{< staticman-form >}}
 
 # Frequently Asked Questions
 
-Have questions? Below are answers to some of the most common inquiries about our programs, mentorship, and ways to get involved. If you don’t see what you’re looking for, feel free to reach out through our contact form.
+Have questions? Below are answers to some of the most common inquiries about our programs, mentorship, and ways to get involved. If you don't see what you're looking for, feel free to reach out through our contact form.
 
 ## 1\. WHAT IS WILDERNESS PATHFINDER CONNECTIONS?
 

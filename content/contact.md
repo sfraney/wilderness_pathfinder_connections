@@ -9,7 +9,7 @@ We welcome inquiries, collaborations, and connections. Whether you have question
 3. Subject (Dropdown: General Inquiry, Volunteering, Mentorship, Donations, Other)
 4. Message
 
-    **\[Send Message\]**
+   **\[Send Message\]**
 
 &nbsp;
 
@@ -39,7 +39,7 @@ Our programs are designed for women veterans, but we also welcome supporters and
 
 ## 6\. HOW DO I DONATE?
 
-Please visit out donate page here.
+Please visit out <a href="https://spiffy-spider.cloudvent.net/donate/" title="Donate Page" target="_blank" rel="noopener">donate page here</a>.
 
 ## 7\. WHERE DO DONATIONS GO?
 

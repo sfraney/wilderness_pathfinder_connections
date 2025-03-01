@@ -17,7 +17,7 @@ We welcome inquiries, collaborations, and connections. Whether you have question
 
 Have questions? Below are answers to some of the most common inquiries about our programs, mentorship, and ways to get involved. If you don’t see what you’re looking for, feel free to reach out through our contact form.
 
-## <br>1\. WHAT IS WILDERNESS PATHFINDER CONNECTIONS?
+## 1\. WHAT IS WILDERNESS PATHFINDER CONNECTIONS?
 
 We are a nonprofit supporting women veterans in becoming Rite of Passage Wilderness Guides.
 

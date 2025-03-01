@@ -9,7 +9,7 @@ We welcome inquiries, collaborations, and connections. Whether you have question
 3. Subject (Dropdown: General Inquiry, Volunteering, Mentorship, Donations, Other)
 4. Message
 
-**\[Send Message\]**
+    **\[Send Message\]**
 
 &nbsp;
 

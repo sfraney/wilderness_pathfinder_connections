@@ -11,7 +11,22 @@ We welcome inquiries, collaborations, and connections. Whether you have question
 
    (**\[Send Message\]**)
 
-&nbsp;
+
+    <iframe
+      id="JotFormIFrame-250587191323154"
+      title="Contact/Info"
+      onload="window.parent.scrollTo(0,0)"
+      allowtransparency="true"
+      allow="geolocation; microphone; camera; fullscreen"
+      src="https://form.jotform.com/250587191323154"
+      frameborder="0"
+      style="min-width:100%;max-width:100%;height:539px;border:none;"
+      scrolling="no"
+    >
+    </iframe>
+    <script src='https://cdn.jotfor.ms/s/umd/latest/for-form-embed-handler.js'></script>
+    <script>window.jotformEmbedHandler("iframe[id='JotFormIFrame-250587191323154']", "https://form.jotform.com/")</script>
+    
 
 &nbsp;
 

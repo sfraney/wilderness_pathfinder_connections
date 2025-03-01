@@ -11,13 +11,6 @@ We welcome inquiries, collaborations, and connections. Whether you have question
 
    (**\[Send Message\]**)
 
-
-<script type="text/javascript" src="https://form.jotform.com/jsform/250587191323154"></script>
-    
-    
-
-&nbsp;
-
 &nbsp;
 
 # Frequently Asked Questions
@@ -43,8 +36,6 @@ You can apply for mentorship, attend events, or support the community through do
 ## 5\. WHO CAN PARTICIPATE IN YOUR PROGRAMS?
 
 Our programs are designed for women veterans, but we also welcome supporters and allies in mentorship roles.
-
-&nbsp;
 
 ## 6\. HOW DO I DONATE?
 

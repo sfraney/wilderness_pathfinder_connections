@@ -37,7 +37,7 @@ You can apply for mentorship, attend events, or support the community through do
 
 Our programs are designed for women veterans, but we also welcome supporters and allies in mentorship roles.
 
-## 6\. HOW DO I DONATE?
+## 6\. HOW DO I DONAhttps://spiffy-spider.cloudvent.net/donate/TE?
 
 Please visit out <a href="https://spiffy-spider.cloudvent.net/donate/" title="Donate Page" target="_blank" rel="noopener">donate page here</a>.
 

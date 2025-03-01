@@ -39,7 +39,7 @@ Our programs are designed for women veterans, but we also welcome supporters and
 
 ## 6\. HOW DO I DONATE?
 
-(COMING SOON)
+Please visit out donate page here.
 
 ## 7\. WHERE DO DONATIONS GO?
 

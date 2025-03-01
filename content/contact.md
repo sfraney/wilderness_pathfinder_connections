@@ -12,7 +12,7 @@ We welcome inquiries, collaborations, and connections. Whether you have question
    (**\[Send Message\]**)
 
 
-    <iframe
+<iframe
       id="JotFormIFrame-250587191323154"
       title="Contact/Info"
       onload="window.parent.scrollTo(0,0)"
@@ -26,6 +26,7 @@ We welcome inquiries, collaborations, and connections. Whether you have question
     </iframe>
     <script src='https://cdn.jotfor.ms/s/umd/latest/for-form-embed-handler.js'></script>
     <script>window.jotformEmbedHandler("iframe[id='JotFormIFrame-250587191323154']", "https://form.jotform.com/")</script>
+    
     
 
 &nbsp;

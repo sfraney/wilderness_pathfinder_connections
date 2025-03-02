@@ -24,4 +24,4 @@ Step into a leadership role as part of a growing network of women veterans train
 
 **How to Join:**<br>1️⃣ Complete our training program<br>2️⃣ Participate in mentorship<br>3️⃣ Get involved in guiding experiences
 
-<br>**\[Join the Guide Network\]** (Button leading to application form)
+<br>{{< coming-soon >}}

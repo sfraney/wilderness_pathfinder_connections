@@ -19,9 +19,7 @@ Mentorship is at the heart of Wilderness Pathfinder Connections. By becoming a m
 **What Mentors Do:**<br>
 
   ✔ Guide emerging leaders through their journey
-
   ✔ Share wisdom, skills, and experience
-
   ✔ Provide support during rites of passage training
 
 **Who Can Be a Mentor?**

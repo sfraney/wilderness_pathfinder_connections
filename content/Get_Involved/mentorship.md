@@ -16,11 +16,11 @@ keywords = [
 +++
 Mentorship is at the heart of Wilderness Pathfinder Connections. By becoming a mentor, you’ll help women veterans step into their power as leaders, guides, and changemakers.
 
-**What Mentors Do:**<br>
+**What Mentors Do:**
 
-  <br>✔ Guide emerging leaders through their journey<br>
-  <br>✔ Share wisdom, skills, and experience<br>
-  <br>✔ Provide support during rites of passage training<br>
+* Guide emerging leaders through their journey
+* Share wisdom, skills, and experience
+* Provide support during rites of passage training<br>
 
 **Who Can Be a Mentor?**
 

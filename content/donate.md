@@ -16,7 +16,7 @@ keywords = [
 +++
 # Support Wilderness Pathfinder Connections
 
-&nbsp;
+![](/uploads/stacie-s-resting-place-1.jpg "Photo by Sher")
 
 <br>Your donation helps women veterans reclaim their power, connect deeply with nature, and guide others on their journey of transformation. With your support, we remove barriers to nature-based healing and leadership, ensuring these vital experiences remain accessible.
 

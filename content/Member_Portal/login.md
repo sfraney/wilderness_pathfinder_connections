@@ -15,10 +15,8 @@ keywords = [
 +++
 # Welcome to the Wilderness Pathfinder Connections Member Portal
 
-
-
 &nbsp;
-
+{{< coming-soon >}}
 &nbsp;
 
 Not a member yet? <a href="https://spiffy-spider.cloudvent.net/get_involved/guide_network/" title="Join the Guide Network" target="_blank" rel="noopener">Join our community</a>

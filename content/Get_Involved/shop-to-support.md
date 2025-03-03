@@ -35,10 +35,7 @@ When you shop with us, you're not just buying a product—you're investing in a 
   * Name
   * Price
   * Short Description
-
-    &nbsp;
-
-    {{< coming-soon >}}
+  * *"Add to Cart"* Button
 
     &nbsp;
 
@@ -57,7 +54,7 @@ When you shop with us, you're not just buying a product—you're investing in a 
 
   &nbsp;
 
-{{< coming-soon >}}
+**Button:** *"Start Shopping Now"*
 
 &nbsp;
 
@@ -69,7 +66,7 @@ When you shop with us, you're not just buying a product—you're investing in a 
 
 &nbsp;
 
-{{< coming-soon >}}
+**Button:** *"Shop Now"*
 
 &nbsp;
 

@@ -14,7 +14,9 @@ keywords = [
   "personal growth"
 ]
 +++
-# **Empower the Next Generation: Become a Wilderness Guide Mentor**
+# **Empower the Next Generation**
+
+## **Become a Wilderness Guide Mentor**
 
 ![Women hiking in a forest and pointing into the distance.](/uploads/pexels-pnw-prod-7624850.jpg "Photo by PNW Production: https://www.pexels.com/photo/women-hiking-in-a-forest-7624850/")
 

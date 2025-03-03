@@ -35,22 +35,22 @@ When you shop with us, you're not just buying a product—you're investing in a 
   * Name
   * Price
   * Short Description
-  * *"Add to Cart"* Button
+  {{< coming-soon >}}
 
 #### **Shop Categories (Clickable Sections)**
 
-* 🏕️ *Outdoor & Adventure Gear*
-* 👕 *Apparel & Merchandise*
-* 📖 *Books & Educational Resources*
-* 🎁 *Gift Bundles & Special Edition Items*
+* *Outdoor & Adventure Gear*
+* *Apparel & Merchandise*
+* *Books & Educational Resources*
+* *Gift Bundles & Special Edition Items*
 
   &nbsp;
 
-* 💖 *100% of proceeds support women veterans and their healing journey*
-* 🌱 *Sustainably sourced and mission-aligned products*
-* 🎁 *Meaningful gifts that inspire and empower*
+* *100% of proceeds support women veterans and their healing journey*
+* *Sustainably sourced and mission-aligned products*
+* *Meaningful gifts that inspire and empower*
 
-**Button:** *"Start Shopping Now"*
+{{< coming-soon >}}
 
 #### **Customer Testimonials (Optional but Builds Trust & Connection)**
 
@@ -58,4 +58,4 @@ When you shop with us, you're not just buying a product—you're investing in a 
 
 *Every purchase fuels transformation. Browse our collection, find something meaningful, and know that your support is making a difference."*
 
-**Button:** *"Shop Now"*
+{{< coming-soon >}}

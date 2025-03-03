@@ -16,7 +16,7 @@ keywords = [
 +++
 # Support Wilderness Pathfinder Connections
 
-![](/uploads/bright-future-1.jpg)
+![](/uploads/36f04dbb-b2a0-4d47-8a40-46bc98f3cdfb.jpg)
 
 <br>Your donation helps women veterans reclaim their power, connect deeply with nature, and guide others on their journey of transformation. With your support, we remove barriers to nature-based healing and leadership, ensuring these vital experiences remain accessible.
 

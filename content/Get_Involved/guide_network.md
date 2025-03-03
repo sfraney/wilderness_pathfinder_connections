@@ -20,7 +20,7 @@ keywords = [
 
 ## Join the Guide Network for Women Veterans
 
-![Woman in Brown Scarf Surrounded With Green Trees](/uploads/pexels-pripicart-713071.jpg "Photo by Tobi")
+![Debbee and a line of women on a trail surrounded with green ferns](/uploads/7d84e3da-5290-4aa0-a0d7-9c7b620e45ca.jpg "Photo by Sher")
 
 &nbsp;
 

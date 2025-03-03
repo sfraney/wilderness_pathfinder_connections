@@ -22,19 +22,17 @@ Make an impact—your time, skills, and passion can change lives. Whether it’s
 
 #### **Why Volunteer?**
 
-* **Icons or Bullet Points:**
-  * 🌿 *Be part of a supportive, mission-driven community*
-  * 🤝 *Use your skills to empower and uplift women veterans*
-  * 🏕️ *Participate in retreats and events that foster healing and transformation*
-  * 💡 *Gain new experiences and leadership opportunities*
+* *Be part of a supportive, mission-driven community*
+* *Use your skills to empower and uplift women veterans*
+* *Participate in retreats and events that foster healing and transformation*
+* *Gain new experiences and leadership opportunities*
 
 #### **Ways to Get Involved (Volunteer Roles Section)**
 
-* **Short descriptions of different volunteer opportunities**
-  * **🖥️ Admin & Tech Assistance** – Assist with website updates, emails, and social media.
-  * **🎨 Creative Contributions** – Photography, graphic design, or content writing.
-  * **📢 Outreach & Advocacy** – Spread awareness and help recruit new members.
-  * **🔍 Special Skills?** – Let us know how you’d like to contribute!
+* **Admin & Tech Assistance** – Assist with website updates, emails, and social media.
+* **Creative Contributions** – Photography, graphic design, or content writing.
+* **Outreach & Advocacy** – Spread awareness and help recruit new members.
+* **Special Skills?** – Let us know how you’d like to contribute!
 
 #### **Call-to-Action (Sign-Up Form or Button)**
 

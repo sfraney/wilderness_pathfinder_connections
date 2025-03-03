@@ -14,3 +14,30 @@
 .box-simple {
     min-height: 230px;
 }
+
+/* Make all content images responsive */
+.content img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: auto;
+}
+
+/* Global image sizing for all images outside of blog posts */
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+/* Specific overrides for images in different sections */
+.navbar-brand img,
+.navbar img,
+.footer img,
+.box img,
+.testimonials img,
+.clients img,
+.features img,
+.portfolio img {
+  max-width: 100%;
+  height: auto;
+}

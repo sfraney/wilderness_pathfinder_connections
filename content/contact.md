@@ -1,4 +1,4 @@
-![Landscape of the wilderness with a river running into the distance with the sun in the sky.](/uploads/20240908-181847.jpg "Photo by Sher")
+![Landscape of the wilderness with a river running into the distance with the sun in the sky.](/uploads/20240908-181847-1.jpg "Photo by Sher")
 
 &nbsp;
 

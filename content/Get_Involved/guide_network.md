@@ -16,7 +16,7 @@ keywords = [
   "organizational leadership"
 ]
 +++
-# Empower Your Journey:
+# Empower Your Journey
 
 ## Join the Guide Network for Women Veterans
 

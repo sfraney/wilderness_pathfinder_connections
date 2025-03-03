@@ -89,7 +89,7 @@ id = ""
 [[menu.main]]
     name       = "Shop to Support"
     url        = "/get_involved/Shop-to-Support/"
-    weight     = 
+    weight     = 4
     parent     = "menu.get_involved"
 
     

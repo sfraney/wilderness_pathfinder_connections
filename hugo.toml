@@ -66,15 +66,6 @@ id = ""
     url        = ""
     weight     = 3
 
-
-
-[[menu.main]]
-    name       = "Volunteer"
-    url        = "/get-involved/volunteer/"
-    weight     = 4
-    parent     = "menu.get_involved"
-
-
 [[menu.main]]
     name       = "Become a Mentor"
     url        = "/get_involved/mentorship/"
@@ -89,12 +80,18 @@ id = ""
     parent     = "menu.get_involved"
     post       = 1
     
+    [[menu.main]]
+    name       = "Volunteer"
+    url        = "/get-involved/volunteer/"
+    weight     = 4
+    parent     = "menu.get_involved"
+
 [[menu.main]]
     name       = "Shop to Support"
     url        = "/get_involved/Shop-to-Support/"
     weight     = 5
     parent     = "menu.get_involved"
-    post       = 
+
     
 [[menu.main]]
     name       = "Events & Resources"

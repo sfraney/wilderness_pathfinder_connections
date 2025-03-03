@@ -70,7 +70,7 @@ id = ""
 
 [[menu.main]]
     name       = "Volunteer"
-    url        = "/get_involved/volunteer/"
+    url        = "/get-involved/volunteer/"
     weight     = 4
     parent     = "menu.get_involved"
 

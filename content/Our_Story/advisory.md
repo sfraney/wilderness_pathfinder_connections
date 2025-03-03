@@ -1,6 +1,6 @@
 +++
 title = "Advisory Council"
-description = "Meet our advisory council"
+description = "Discover the diverse and accomplished individuals who contribute their wisdom and experience to our community"
 keywords = [
   "advisory",
   "council",
@@ -47,5 +47,6 @@ Shari is a visionary leader and dedicated advocate for women veterans, committed
 Co-Founder & Chairperson, Advisory Council
 
 Debbee is a dedicated community leader and advocate for veteran healing, guiding individuals through rites of passage that honor transformation and resilience. With a background in Organizational Leadership, she has worked extensively to support veterans in reconnecting with themselves, their communities, and the natural world. As Chairperson of the Advisory Council for Wilderness Pathfinder Connections, she brings extensive experience in leadership development, mentorship, and community-building. Her expertise ensures the organization’s strength and sustainability, helping to break down barriers to nature-based healing and leadership. Debbee’s passion for empowering veterans and fostering meaningful connection makes her an integral force in shaping the future of this movement.
+
 
 <img src="img-1622-heic-unknown.jpg" alt="Alt text" width="50" />

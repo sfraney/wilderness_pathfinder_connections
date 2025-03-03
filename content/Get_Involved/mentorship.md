@@ -46,5 +46,3 @@ Mentorship is the cornerstone of our mission to empower women veterans as wilder
 &nbsp;
 
 ---
-
-&nbsp;

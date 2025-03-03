@@ -35,7 +35,12 @@ When you shop with us, you're not just buying a product—you're investing in a 
   * Name
   * Price
   * Short Description
-  {{< coming-soon >}}
+
+    &nbsp;
+
+    {{< coming-soon >}}
+
+    &nbsp;
 
 #### **Shop Categories (Clickable Sections)**
 
@@ -50,7 +55,11 @@ When you shop with us, you're not just buying a product—you're investing in a 
 * *Sustainably sourced and mission-aligned products*
 * *Meaningful gifts that inspire and empower*
 
+  &nbsp;
+
 {{< coming-soon >}}
+
+&nbsp;
 
 #### **Customer Testimonials (Optional but Builds Trust & Connection)**
 
@@ -58,4 +67,8 @@ When you shop with us, you're not just buying a product—you're investing in a 
 
 *Every purchase fuels transformation. Browse our collection, find something meaningful, and know that your support is making a difference."*
 
+&nbsp;
+
 {{< coming-soon >}}
+
+&nbsp;

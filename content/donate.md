@@ -22,6 +22,8 @@ Your generosity makes a real difference. Every donation directly funds mentorshi
 
 <br>💰 **$25** – Provides supplies for a wilderness retreat<br><br> 💰 **$50** – Supports mentorship for an emerging guide<br><br> 💰 **$100** – Funds travel scholarships for women veterans<br><br> 💰 **Custom Amount** – Every gift creates ripples of transformation<br>
 
+&nbsp;
+
 {{< coming-soon >}}
 
 &nbsp;

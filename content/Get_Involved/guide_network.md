@@ -16,6 +16,8 @@ keywords = [
   "organizational leadership"
 ]
 +++
+&nbsp;
+
 ![Woman in Brown Scarf Surrounded With Green Trees](/uploads/pexels-pripicart-713071.jpg "Photo by Tobi")
 
 &nbsp;
@@ -46,5 +48,7 @@ Are you a woman veteran with a passion for nature and a calling to guide others?
 &nbsp;
 
 <br>{{< coming-soon >}}
+
+&nbsp;
 
 &nbsp;

@@ -20,7 +20,7 @@ keywords = [
 
 ## Join the Guide Network for Women Veterans
 
-![Debbee and a line of women on a trail surrounded with green ferns](/uploads/20241013-123817-edit-2.jpg "Photo by Sher")
+![Debbee and a line of women on a trail surrounded with green ferns](/uploads/Indianola%20Trail.jpg "Photo by Sher")
 
 &nbsp;
 

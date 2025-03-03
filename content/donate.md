@@ -16,7 +16,7 @@ keywords = [
 +++
 # Support Wilderness Pathfinder Connections
 
-![](/uploads/bright-future.jpg "Photo by Maria")<br>Your donation helps women veterans reclaim their power, connect deeply with nature, and guide others on their journey of transformation. With your support, we remove barriers to nature-based healing and leadership, ensuring these vital experiences remain accessible.
+<br>Your donation helps women veterans reclaim their power, connect deeply with nature, and guide others on their journey of transformation. With your support, we remove barriers to nature-based healing and leadership, ensuring these vital experiences remain accessible.
 
 Your generosity makes a real difference. Every donation directly funds mentorship programs, retreats, and opportunities for women veterans to heal, grow, and lead. This work is made possible because of people like you—people who believe in transformation, empowerment, and the power of community. Whether it's a one-time gift or a recurring donation, your support changes lives. Join us in making an impact today.
 

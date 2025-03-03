@@ -94,7 +94,7 @@ id = ""
     url        = "/get_involved/Shop-to-Support/"
     weight     = 5
     parent     = "menu.get_involved"
-    post       = 1
+    post       = 
     
 [[menu.main]]
     name       = "Events & Resources"

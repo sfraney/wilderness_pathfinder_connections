@@ -20,15 +20,18 @@ Wilderness Pathfinder Connections is building a powerful network of women vetera
 
 **Benefits of Joining:**
 
-* Funding for training and workshops
-* Networking with experienced guides
-* Opportunities to lead and support programs
+* **Connect with Mentors:** Receive guidance and support from experienced wilderness guides and rites of passage facilitators.
+* **Access Resources:** Gain access to a curated library of resources, including training materials, guides, and templates.
+* **Community Support:** Become part of a vibrant community of women veterans and allies passionate about nature-based healing and leadership.
+* **Funding Opportunities:** Gain eligibility to apply for funding to support your training and development as a wilderness guide.
+* **Leadership Development:** Develop your leadership skills and gain experience in facilitating rites of passage and wilderness experiences.
 
 **How to Join:**
 
-1. Complete our training program
-2. Participate in mentorship
-3. Get involved in guiding experiences
+1. **Apply to the Guide Network:** Fill out our application form to express your interest and share your experience.
+2. **Connect with a Mentor:** Once accepted, you'll be connected with a mentor who will guide you on your journey.
+3. **Participate in Training:** Explore training and workshop opportunities offered by partner organizations and apply for funding to support your participation.
+4. **Get Involved:** Engage with the community, share your knowledge, and contribute to the collective growth of the network.
 
 &nbsp;
 

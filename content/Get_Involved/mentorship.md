@@ -14,19 +14,22 @@ keywords = [
   "personal growth"
 ]
 +++
-Mentorship is at the heart of Wilderness Pathfinder Connections. By becoming a mentor, you’ll help women veterans step into their power as leaders, guides, and changemakers.
+**Mentorship at Wilderness Pathfinder Connections**
+
+Mentorship is the cornerstone of our mission to empower women veterans as wilderness guides and rites of passage facilitators. By becoming a mentor, you'll play a vital role in guiding and supporting these aspiring leaders on their transformative journey.
 
 **What Mentors Do:**
 
-* Guide emerging leaders through their journey
-* Share wisdom, skills, and experience
-* Provide support during rites of passage training<br>
+* **Share your expertise:** Offer your knowledge and experience in wilderness guiding, rites of passage facilitation, and nature-based healing.
+* **Provide guidance and support:** Help mentees navigate challenges, develop their skills, and deepen their connection to the land and their own leadership potential.
+* **Build relationships:** Create a safe and supportive space for mentees to explore their goals and grow as leaders.
+* **Contribute to the community:** Share your wisdom and insights in the mentor forum and contribute to the collective growth of the network.
 
-**Who Can Be a Mentor?**
+**Who Can Be a Mentor:**
 
-* Experienced wilderness guides
-* Women veterans with leadership experience
-* Passionate individuals committed to this work
+* **Experienced Guides:** Individuals with proven experience in wilderness guiding, outdoor leadership, or rites of passage facilitation.
+* **Passionate Mentors:** Those with a deep passion for empowering women veterans and expanding access to nature-based healing.
+* **Commitment to Growth:** Mentors who are committed to their own ongoing learning and development and are eager to share their knowledge with others.
 
 &nbsp;
 

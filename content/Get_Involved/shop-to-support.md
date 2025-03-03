@@ -65,10 +65,12 @@ When you shop with us, you're not just buying a product—you're investing in a 
 
 * **Short quote or review from someone who purchased an item and its impact.**
 
-*Every purchase fuels transformation. Browse our collection, find something meaningful, and know that your support is making a difference."*
+*Every purchase fuels transformation. Browse our collection, find something meaningful, and know that your support is making a difference.*
 
 &nbsp;
 
 {{< coming-soon >}}
+
+&nbsp;
 
 &nbsp;

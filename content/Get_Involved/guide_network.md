@@ -16,7 +16,9 @@ keywords = [
   "organizational leadership"
 ]
 +++
-&nbsp;
+# Empower Your Journey:
+
+## Join our Guide Network
 
 ![Woman in Brown Scarf Surrounded With Green Trees](/uploads/pexels-pripicart-713071.jpg "Photo by Tobi")
 

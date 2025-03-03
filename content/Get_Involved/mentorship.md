@@ -22,6 +22,8 @@ keywords = [
 
 Mentorship is the cornerstone of our mission to empower women veterans as wilderness guides and rites of passage facilitators. By becoming a mentor, you'll play a vital role in guiding and supporting these aspiring leaders on their transformative journey.
 
+&nbsp;
+
 **What Mentors Do:**
 
 * **Share your expertise:** Offer your knowledge and experience in wilderness guiding, rites of passage facilitation, and nature-based healing.

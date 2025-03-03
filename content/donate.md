@@ -16,12 +16,13 @@ keywords = [
 +++
 # Support Wilderness Pathfinder Connections
 
+![Photo of Person Standing On Top Of Mountain](/uploads/pexels-quang-nguyen-vinh-222549-2161903.jpg "Photo by Quang Nguyen Vinh: https://www.pexels.com/photo/photo-of-person-standing-on-top-of-mountain-2161903/")
+
 <br>Your donation helps women veterans reclaim their power, connect deeply with nature, and guide others on their journey of transformation. With your support, we remove barriers to nature-based healing and leadership, ensuring these vital experiences remain accessible.
 
 Your generosity makes a real difference. Every donation directly funds mentorship programs, retreats, and opportunities for women veterans to heal, grow, and lead. This work is made possible because of people like you—people who believe in transformation, empowerment, and the power of community. Whether it's a one-time gift or a recurring donation, your support changes lives. Join us in making an impact today.
 
-<br>💰 **$25** – Provides supplies for a wilderness retreat<br><br> 💰 **$50** – Supports mentorship for an emerging guide<br><br> 💰 **$100** – Funds travel scholarships for women veterans<br><br> 💰 **Custom Amount** – Every gift creates ripples of transformation<br><br> <br> 
-{{< coming-soon >}}
+<br>💰 **$25** – Provides supplies for a wilderness retreat<br><br> 💰 **$50** – Supports mentorship for an emerging guide<br><br> 💰 **$100** – Funds travel scholarships for women veterans<br><br> 💰 **Custom Amount** – Every gift creates ripples of transformation<br><br> <br> {{< coming-soon >}}
 
 ✅ **Other Ways to Give**
 

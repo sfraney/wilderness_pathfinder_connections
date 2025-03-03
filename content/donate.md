@@ -1,5 +1,6 @@
 +++
 title = "Donate"
+description = "Support and empower women veterans by becoming a mentor. Share your wisdom, provide guidance, and help others navigate their personal and leadership journeys in the wilderness."
 keywords = [
   "donate",
   "support",

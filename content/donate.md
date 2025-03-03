@@ -16,7 +16,7 @@ keywords = [
 +++
 # Support Wilderness Pathfinder Connections
 
-![Photo of Person Standing On Top Of Mountain](/uploads/pexels-quang-nguyen-vinh-222549-2161903.jpg "Photo by Quang Nguyen Vinh: https://www.pexels.com/photo/photo-of-person-standing-on-top-of-mountain-2161903/")
+![Photo of Person Standing On Top Of Mountain](/uploads/pexels-quang-nguyen-vinh-222549-2161903-1.jpg "Photo by Quang Nguyen Vinh: https://www.pexels.com/photo/photo-of-person-standing-on-top-of-mountain-2161903/")
 
 <br>Your donation helps women veterans reclaim their power, connect deeply with nature, and guide others on their journey of transformation. With your support, we remove barriers to nature-based healing and leadership, ensuring these vital experiences remain accessible.
 

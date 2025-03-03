@@ -14,9 +14,11 @@ keywords = [
   "personal growth"
 ]
 +++
-**Mentorship at Wilderness Pathfinder Connections**
+# **Mentorship at Wilderness Pathfinder Connections**
 
 ![Women hiking in a forest and pointing into the distance.](/uploads/pexels-pnw-prod-7624850.jpg "Photo by PNW Production: https://www.pexels.com/photo/women-hiking-in-a-forest-7624850/")
+
+&nbsp;
 
 Mentorship is the cornerstone of our mission to empower women veterans as wilderness guides and rites of passage facilitators. By becoming a mentor, you'll play a vital role in guiding and supporting these aspiring leaders on their transformative journey.
 

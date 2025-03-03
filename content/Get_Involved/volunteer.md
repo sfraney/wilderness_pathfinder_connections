@@ -18,6 +18,8 @@ keywords = [
 +++
 # Volunteer With Us – Make a Difference!
 
+![Five women sitting on a rock with their backs to the viewer looking out into the open landscape.](/uploads/pexels-jokassis-5534205.jpg "Photo by Jo Kassis: https://www.pexels.com/photo/women-sitting-on-a-rock-in-the-mountains-5534205/")
+
 Make an impact—your time, skills, and passion can change lives. Whether it’s supporting retreats, helping with events, or lending your expertise behind the scenes, there’s a place for you in this movement. Volunteering with Wilderness Pathfinder Connections means becoming part of something bigger and a community that’s actively working toward healing and empowerment. Ready to contribute in a meaningful way? Let’s get started!
 
 #### **Why Volunteer?**

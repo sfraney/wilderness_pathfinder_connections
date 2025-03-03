@@ -26,7 +26,7 @@ The Advisory Council of Wilderness Pathfinder Connections is composed of dedicat
 
 Co-Founder & Advisory Council Member
 
-As a member of the Advisory Council, Debbee brings her deep wisdom, experience, and passion for mentorship to ensure Wilderness Pathfinder Connections thrives. Her commitment to fostering inclusive and powerful spaces for healing makes her an invaluable part of the team.
+As a member of the Advisory Council, Maria brings her deep wisdom, experience, and passion for mentorship to ensure Wilderness Pathfinder Connections thrives. Her commitment to fostering inclusive and powerful spaces for healing makes her an invaluable part of the team.
 
 &nbsp;
 

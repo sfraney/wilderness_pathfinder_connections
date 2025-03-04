@@ -1,14 +1,18 @@
 +++
 title = "Sponsorship Submission Guidelines & Review Process"
-description = "Review our submission guidelines to ensure your sponsorship application meets all necessary criteria for evaluation."
+description = """
+Review our submission guidelines to ensure your sponsorship application meets all necessary criteria for evaluation
+Learn about our transparent and impartial review process. Our selection committee evaluates each application based on objective criteria.."""
 keywords = [
   "submission guidelines",
   "application instructions",
   "sponsorship criteria",
   "nonprofit application process",
-  "sponsorship",
-  "guidelines",
-  "instructions"
+  "review process",
+  "selection committee",
+  "evaluation",
+  "sponsorship review",
+  "nonprofit process"
 ]
 +++
 # Submission Guidelines & Review Process

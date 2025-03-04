@@ -140,7 +140,7 @@ id = ""
 [[menu.topbar]]
     weight = 3
     name = "Facebook"
-    url = "http://facebook.com"
+    url = "https://www.facebook.com/profile.php?id=61573795891495"
     pre = "<i class='fab fa-2x fa-facebook'></i>"
 
 [[menu.topbar]]

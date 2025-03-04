@@ -33,22 +33,14 @@ Make an impact—your time, skills, and passion can change lives. Whether it’s
 * *Participate in retreats and events that foster healing and transformation*
 * *Gain new experiences and leadership opportunities*
 
-#### **Ways to Get Involved (Volunteer Roles Section)**
+#### **Ways to Get Involved**
 
 * **Admin & Tech Assistance** – Assist with website updates, emails, and social media.
 * **Creative Contributions** – Photography, graphic design, or content writing.
 * **Outreach & Advocacy** – Spread awareness and help recruit new members.
 * **Special Skills?** – Let us know how you’d like to contribute!
 
-#### **Call-to-Action (Sign-Up Form or Button)**
-
-* **Button:** *"Sign Up to Volunteer"* (Leads to a short form)
-* **Form Fields:**
-  * Name
-  * Email
-  * Area of Interest
-  * Availability
-  * Message
+####{{< coming-soon >}}
 
 #### **Testimonials (Real Volunteer Stories – Optional but Powerful)**
 
@@ -56,4 +48,4 @@ Make an impact—your time, skills, and passion can change lives. Whether it’s
 
 Every helping hand brings us closer to our mission. Whether you can give a few hours or a long-term commitment, your involvement matters. Sign up today and be part of the movement!
 
-* **Button:** *"Join the Volunteer Team"*
+{{< coming-soon >}}

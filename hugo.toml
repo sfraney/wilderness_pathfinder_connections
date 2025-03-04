@@ -113,7 +113,7 @@ id = ""
     
 [[menu.main]]
     name       = "Donate"
-    url        = "/donate"
+    url        = "/donate/"
     weight     = 6
     icon = "fa-solid fa-compass"
     title = "Join Us in the Journey"

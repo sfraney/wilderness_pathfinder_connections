@@ -28,8 +28,6 @@ Your generosity makes a real difference. Every donation directly funds mentorshi
 
 &nbsp;
 
-&nbsp;
-
 {{< coming-soon >}}
 
 &nbsp;

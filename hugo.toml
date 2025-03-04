@@ -145,9 +145,9 @@ id = ""
 
 [[menu.topbar]]
     weight = 4
-    name = "Twitter"
-    url = "http://twitter.com"
-    pre = "<i class='fab fa-2x fa-twitter'></i>"
+    name = "Instagram"
+    url = "https://www.instagram.com/wildernesspathfinder/"
+    pre = "<i class='fab fa-2x fa-instagram'></i>"
 
 [[menu.topbar]]
     weight = 5

@@ -40,7 +40,7 @@ Shari is a visionary leader and dedicated advocate for women veterans, committed
 
 &nbsp;
 
-![Kiddie Debbie](/uploads/63283.jpeg "Debbee, Chairperson")
+![Kiddie Debbie](/uploads/63283-1.jpeg "Debbee, Chairperson")
 
 ## Debbee, Ph.D
 

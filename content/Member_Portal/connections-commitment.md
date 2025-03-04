@@ -1,5 +1,5 @@
 +++
-title = "Wilderness Pathfinder Connections Community Commitment"
+title = "Connections Commitment"
 description = ""
 keywords = [
   "book",

@@ -23,7 +23,7 @@ We welcome inquiries, collaborations, and connections. Whether you have question
 
 &nbsp;
 
-{{< coming-soon >}}
+{{< contact-form >}}
 
 &nbsp;
 

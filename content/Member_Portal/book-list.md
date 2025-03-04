@@ -12,6 +12,10 @@ keywords = [
   "guidance"
 ]
 +++
+# Collected Readings
+
+## Books, Essays, & Articles<br>
+
 A curated collection of books, essays, and articles that align with our mission, offering wisdom, insight, and practical guidance. These readings explore themes of healing, leadership, community-building, and personal transformation, supporting those on the journey of service and ceremony.
 
 1. *Rites of Passage & Ceremony* (Books on initiation, cultural practices, healing)

@@ -28,10 +28,10 @@ Make an impact—your time, skills, and passion can change lives. Whether it’s
 
 #### **Why Volunteer?**
 
-* *Be part of a supportive, mission-driven community*
-* *Use your skills to empower and uplift women veterans*
-* *Participate in retreats and events that foster healing and transformation*
-* *Gain new experiences and leadership opportunities*
+* Be part of a supportive, mission-driven community
+* Use your skills to empower and uplift women veterans
+* Participate in retreats and events that foster healing and transformation
+* Gain new experiences and leadership opportunities
 
 #### **Ways to Get Involved**
 

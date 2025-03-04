@@ -1,3 +1,19 @@
++++
+title = "Contact"
+description = "Have questions or want to learn more?  Connect with Wilderness Pathfinder Connections here. We'd love to hear from you!."
+keywords = [
+  "donate",
+  "support",
+  "support women veterans",
+  "nonprofit donation",
+  "haritable giving",
+  "nature-based healing",
+  "mentorship funding",
+  "wilderness programs",
+  "veteran empowerment",
+  "tax-deductible donation"
+]
+
 # **Get in Touch**
 
 ![Forested mountainsides with a river flowing in the middle into the distance, with the sun in the sky.](/uploads/stacie-s-resting-place.jpg "Photo by Sher")

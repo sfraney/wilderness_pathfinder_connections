@@ -119,7 +119,7 @@ id = ""
     icon = "fa-solid fa-compass"
     title = "Join Us in the Journey"
     subtitle = "Be part of a movement that uplifts women veterans through nature-based healing leadership. Whether through training, support, or funding, your involvement makes a difference."
-    link_url = "#"
+    link_url = "/get_involved/get_involved/"
     link_text = "Get Involved"
     
 

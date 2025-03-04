@@ -1,5 +1,5 @@
-# Deploy Hugo site & Decap CMS to GitHub Pages
-name: Deploy Hugo + Decap CMS
+# Deploy Hugo site to GitHub Pages
+name: Deploy Hugo
 
 on:
   # Runs on pushes targeting the default branch
@@ -11,7 +11,6 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: write  # Required for CMS to commit changes
   pages: write
   id-token: write
 

@@ -75,3 +75,5 @@ Your generous donations directly support:
 Yes! Wilderness Pathfinder Connections is a 501(c)(3) nonprofit organization, and your donations are tax-deductible to the extent allowed by law.
 
 &nbsp;
+
+&nbsp;

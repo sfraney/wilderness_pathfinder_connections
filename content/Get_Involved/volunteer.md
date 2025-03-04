@@ -46,12 +46,3 @@ Every helping hand brings us closer to our mission. Whether you can give a few h
 
 {{< coming-soon >}}
 
-#### **Call-to-Action (Sign-Up Form or Button)**
-
-* **Button:** *"Sign Up to Volunteer"* (Leads to a short form)
-* **Form Fields:**
-  * Name
-  * Email
-  * Area of Interest
-  * Availability
-  * Message

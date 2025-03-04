@@ -16,6 +16,7 @@ keywords = [
   "organizational leadership"
 ]
 +++
+
 # Empower Your Journey
 
 ## Join the Guide Network for Women Veterans
@@ -26,9 +27,9 @@ keywords = [
 
 Are you a woman veteran with a passion for nature and a calling to guide others?
 
-<br><br>The Wilderness Pathfinder Connections Guide Network is a vibrant community ready to support you on your journey. When you join the Guide Network, you're stepping into a legacy of mentorship, empowerment, and transformation. You'll gain access to a supportive network of women veterans, receive mentorship from experienced guides, and tap into a wealth of resources to deepen your skills in wilderness guiding and rites of passage facilitation. We also provide funding opportunities to help you access training and further your development as a leader. Whether you're just starting out or seeking to expand your impact, we welcome you to step into this transformative work.
+The Wilderness Pathfinder Connections Guide Network is a vibrant community ready to support you on your journey. When you join the Guide Network, you're stepping into a legacy of mentorship, empowerment, and transformation. You'll gain access to a supportive network of women veterans, receive mentorship from experienced guides, and tap into a wealth of resources to deepen your skills in wilderness guiding and rites of passage facilitation. We also provide funding opportunities to help you access training and further your development as a leader. Whether you're just starting out or seeking to expand your impact, we welcome you to step into this transformative work.
 
-<br><br>Are you ready to guide, support, and inspire others on their journey? Join us today!
+Are you ready to guide, support, and inspire others on their journey? Join us today!
 
 &nbsp;
 
@@ -49,7 +50,7 @@ Are you a woman veteran with a passion for nature and a calling to guide others?
 
 &nbsp;
 
-<br>{{< coming-soon >}}
+{{< coming-soon >}}
 
 &nbsp;
 

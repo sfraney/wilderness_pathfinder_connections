@@ -40,9 +40,16 @@ Make an impact—your time, skills, and passion can change lives. Whether it’s
 * **Outreach & Advocacy** – Spread awareness and help recruit new members.
 * **Special Skills?** – Let us know how you’d like to contribute!
 
+&nbsp;
+
 {{< coming-soon >}}
+
+&nbsp;
 
 Every helping hand brings us closer to our mission. Whether you can give a few hours or a long-term commitment, your involvement matters. Sign up today and be part of the movement!
 
+&nbsp;
+
 {{< coming-soon >}}
 
+&nbsp;

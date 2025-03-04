@@ -116,7 +116,7 @@ id = ""
     url        = "/donate/"
     weight     = 6
     
-    icon = "fa-solid fa-compass"
+    icon = "fa-solid fa-mountain"
     title = "Join Us in the Journey"
     subtitle = "Be part of a movement that uplifts women veterans through nature-based healing leadership. Whether through training, support, or funding, your involvement makes a difference."
     link_url = "wildpathfinder.org/get_involved/get_involved/"

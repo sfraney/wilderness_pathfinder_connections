@@ -16,7 +16,7 @@ keywords = [
 +++
 # Support Wilderness Pathfinder Connections
 
-![Forested mountainsides with a river flowing in the middle into the distance, with the sun in the sky.](/uploads/stacie-s-resting-place-2.jpg "Photo by Sher")
+![Maria's silohette looking into the distance of a high desert with the sun in the clouded sky.](/uploads/bright-future.jpg "Photo by Sher")
 
 <br>Your donation helps women veterans reclaim their power, connect deeply with nature, and guide others on their journey of transformation. With your support, we remove barriers to nature-based healing and leadership, ensuring these vital experiences remain accessible.
 

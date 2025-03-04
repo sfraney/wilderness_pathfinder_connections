@@ -38,6 +38,7 @@ Your generosity makes a real difference. Every donation directly funds mentorshi
 * **Corporate Sponsorships:** Partner with us
 * **In-Kind Donations:** Gear, supplies, expertise
 
+
 <br><br>Wilderness Pathfinder Connections is a 501(c)(3) nonprofit. Your donation is tax-deductible.
 
 &nbsp;

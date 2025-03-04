@@ -1,15 +1,17 @@
 +++
 title = "Connections Commitment"
-description = ""
+description = "Learn about the shared values and guidelines that foster a safe, supportive, and thriving community for all members of Wilderness Pathfinder Connections."
 keywords = [
-  "book",
-  "reading",
-  "list",
-  "essays",
-  "articles",
-  "recommended",
-  "insights",
-  "guidance"
+  "Community guidelines",
+  "guiding principles",
+  "code of conduct",
+  "respect",
+  "inclusivity",
+  "safety",
+  "accountability",
+  "collaboration",
+  "mentorship",
+  "support"
 ]
 +++
 # **Welcome to the Wilderness Pathfinder Connections Community!**

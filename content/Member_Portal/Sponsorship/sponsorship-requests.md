@@ -3,8 +3,7 @@ title = "Sponsorship Program Overview"
 description = "Discover our Sponsorship Program for empowering women veterans to become wilderness guides. Learn about our mission, eligibility criteria, and how your support fuels transformative leadership."
 keywords = [
   "sponsorship",
-  "funding",
-  "mentorship",
+  "sponsorship",
   "women veterans",
   "wilderness guide",
   "nonprofit sponsorship",

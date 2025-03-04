@@ -80,11 +80,11 @@ id = ""
     parent     = "menu.get_involved"
     post       = 1
 
-#[[menu.main]]
-#    name       = "Volunteer"
-#    url        = "/get_involved/volunteer/"
-#    weight     = 4
-#    parent     = "menu.get_involved"
+[[menu.main]]
+    name       = "Volunteer"
+    url        = "/get_involved/volunteer/"
+    weight     = 4
+    parent     = "menu.get_involved"
 
 #[[menu.main]]
 #    name       = "Shop to Support"

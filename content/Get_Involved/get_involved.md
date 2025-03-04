@@ -20,6 +20,8 @@ keywords = [
 
 ![Three Women Sitting on Beach Sand](/uploads/pexels-mora-varela-152664718-11857835.jpg "Photo by Mora Varela: https://www.pexels.com/photo/three-women-sitting-on-beach-sand-11857835/")
 
+&nbsp;
+
 Wilderness Pathfinder Connections thrives on the passion and dedication of our community. Whether you're a woman veteran seeking mentorship, an experienced guide willing to share your wisdom, or a passionate supporter who believes in our mission, there are many ways to get involved and make a difference.
 
 {{< coming-soon >}}

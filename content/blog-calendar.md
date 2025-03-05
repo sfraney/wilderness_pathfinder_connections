@@ -109,3 +109,37 @@ Once a month is a good long-term goal, but front-loading a few posts can help bu
 <table><thead><tr><th><p><strong>Month</strong></p></th><th><p><strong>Blog Topic</strong></p></th><th><p><strong>Social Media Focus</strong></p></th><th><p><strong>Newsletter?</strong></p></th></tr></thead><tbody><tr><td><p><strong>Now</strong></p></td><td><p>🎉 We Filed Our Articles of Incorporation!</p></td><td><p>Announce nonprofit launch</p></td><td><p>❌</p></td></tr><tr><td><p><strong>2 Months Later</strong></p></td><td><p><strong>Why We Chose Our Name</strong></p></td><td><p>Share name story</p></td><td><p>❌</p></td></tr><tr><td><p><strong>4 Months Later</strong></p></td><td><p><strong>How Deb, Maria &amp; I Came Together</strong></p></td><td><p>Feature co-founders</p></td><td><p>❌</p></td></tr><tr><td><p><strong>Year 1 - Month 1</strong></p></td><td><p><strong>Announcing Our Next Steps</strong></p></td><td><p>Kick off outreach</p></td><td><p>✅</p></td></tr><tr><td><p><strong>Year 1 - Month 2</strong></p></td><td><p><strong>Why Mentorship Matters</strong></p></td><td><p>Mentor spotlight</p></td><td><p>❌</p></td></tr><tr><td><p><strong>Year 1 - Month 3</strong></p></td><td><p><strong>What We’re Building: A Look at Our Programs</strong></p></td><td><p>Share impact visuals</p></td><td><p>✅</p></td></tr><tr><td><p><strong>Year 1 - Month 4</strong></p></td><td><p><strong>How to Get Involved</strong></p></td><td><p>Feature volunteer stories</p></td><td><p>❌</p></td></tr><tr><td><p><strong>Year 1 - Month 6</strong></p></td><td><p><strong>Story of Someone Inspired to Join Us</strong></p></td><td><p>Personal story</p></td><td><p>✅</p></td></tr><tr><td><p><strong>Year 1 - Month 9</strong></p></td><td><p><strong>Lessons from Our First Year</strong></p></td><td><p>Reflect on progress</p></td><td><p>✅</p></td></tr><tr><td><p><strong>Year 2 - Month 1</strong></p></td><td><p><strong>A Mentor’s Perspective</strong></p></td><td><p>Feature a mentor</p></td><td><p>❌</p></td></tr><tr><td><p><strong>Year 2 - Month 3</strong></p></td><td><p><strong>Spotlight on a Community Member</strong></p></td><td><p>Share their words</p></td><td><p>✅</p></td></tr><tr><td><p><strong>Year 2 - Month 6</strong></p></td><td><p><strong>Biggest Impact We’ve Made So Far</strong></p></td><td><p>Celebrate milestones</p></td><td><p>✅</p></td></tr></tbody></table>
 
 This structure balances **storytelling, education, and updates** without making blogging a job. If it ever feels like too much, you can adjust or combine posts.
+
+## **Social Media Strategy (FB & IG) – Efficient & Effective**
+
+**Q: Do posts have to be at certain times?<br>**Yes, **posting at the right time** can help reach more people. But the most important thing is **consistency over perfection.**
+
+### **Best Posting Times (General Guidelines):**
+
+* **Facebook:** 📌 Best: **Tues-Thurs at 9 AM - 1 PM** (Mid-morning to early afternoon).
+  * Avoid **weekends** unless it’s an event.
+* **Instagram:** 📌 Best: **Mon-Fri at 11 AM - 2 PM or 7 PM - 9 PM** (Lunch breaks & evening scrolls).
+  * Avoid **early mornings** & late nights.
+
+👉 **Tip:** If you post once a month, don’t stress about timing—**just post when you can.**
+
+### **Q: Can I post the same thing to both?**
+
+✅ **Yes!** You can post the same content to **both Facebook & Instagram**, but tweak slightly:
+
+* **Facebook** allows longer text (write full stories).
+* **Instagram** works better with **short captions + strong images.**
+* If using **hashtags**, limit them on Facebook (1-2), but **use 5-10** on Instagram.
+
+👉 **Most Efficient Method:** Use a **social media scheduler** (Meta Business Suite is free) to **schedule one post** to go to both FB & IG at the best times.
+
+### **Posting Frequency (Low-Maintenance Plan):**
+
+✅ **1-2 posts per month** (Focus on quality, not quantity).<br>✅ **What to post?** Mix these types of content:
+
+* **1 success story or personal reflection** (engaging storytelling).
+* **1 update or behind-the-scenes glimpse** (photos from an event, a message from your team, etc.).
+
+🔹 **Best strategy:** **Batch your content** (write 3-4 posts at once and schedule them out).
+
+<br>

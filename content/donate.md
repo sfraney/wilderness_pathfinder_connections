@@ -34,7 +34,7 @@ Your generosity makes a real difference. Every donation directly funds mentorshi
 
 &nbsp;
 
-✅ **Other Ways to Give**
+**Other Ways to Give**
 
 * **Monthly Giving:** Join our Circle of Sustainers
 * **Corporate Sponsorships:** Partner with us

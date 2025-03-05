@@ -32,7 +32,7 @@ Your generosity makes a real difference. Every donation directly funds mentorshi
 
 &nbsp;
 
-{{< coming-soon >}}
+<p style="text-align:center">{{< coming-soon >}}</p>
 
 &nbsp;
 

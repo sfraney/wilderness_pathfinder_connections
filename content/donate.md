@@ -32,9 +32,7 @@ Your generosity makes a real difference. Every donation directly funds mentorshi
 
 &nbsp;
 
-<div class="d-flex justify-content-center">
-  <button type="button" class="btn btn-primary" style="padding: 15px 30px; font-size: 18px;">Coming Soon</button>
-</div>
+{{< coming-soon >}}
 
 &nbsp;
 

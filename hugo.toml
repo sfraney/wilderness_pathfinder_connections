@@ -211,13 +211,13 @@ id = ""
 
     dropdown_mouse_over = false
 
-    disabled_logo = false
+    disabled_logo = true
     logo_text = "wilderness pathfinder connections"
 
     logo = "img/logo.png"
     logo_small = "img/logo-small.png"
     contact_url = "/contact"
-#    address = """<p class="text-uppercase"><strong>TBD</strong>
+    address = #"""<p class="text-uppercase"><strong>TBD</strong>
         <br>info@wildpathfinder.org
         <br>Portland, Oregon
         <br><strong>United States</strong>

@@ -211,7 +211,7 @@ id = ""
 
     dropdown_mouse_over = false
 
-    disabled_logo = true
+    disabled_logo = false
     logo_text = "wilderness pathfinder connections"
 
     logo = "img/logo.png"

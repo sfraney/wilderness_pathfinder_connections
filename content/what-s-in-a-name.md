@@ -12,7 +12,7 @@ tags = [
   "Identity & Purpose"
 ]
 categories = [ "About Us", "Our Journey", "Ethics & Values", "Reflections" ]
-banner = "img/Sunrise-in-Indianola.jpg"
+banner = ""
 authors = [ "Sher and \"Chad\"" ]
 +++
 Names carry power. They shape identity, convey purpose, and reflect values. When we set out to name our organization, we knew we wanted something **punchy, memorable, and easy to type**—but more than that, it needed to embody who we are and what we stand for.

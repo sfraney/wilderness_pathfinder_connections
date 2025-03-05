@@ -42,6 +42,6 @@ Your generosity makes a real difference. Every donation directly funds mentorshi
 
 &nbsp;
 
-Wilderness Pathfinder Connections has applied for 501(c)(3) status and is awaiting approval.
+Wilderness Pathfinder Connections has applied for 501(c)(3) status and currently awaiting approval.
 
 &nbsp;

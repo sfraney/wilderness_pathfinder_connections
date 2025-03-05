@@ -30,25 +30,25 @@ Wilderness Pathfinder Connections thrives on the passion and dedication of our c
 
 **Ways to Get Involved:**
 
-* [**Become a Mentor:**](https://wildpathfinder.org/get_involved/mentorship/ "Mentor page")Share your expertise and guide aspiring women veterans on their journey to becoming wilderness guides.
+* [**Become a Mentor:**](/get_involved/mentorship/ "Mentor page")Share your expertise and guide aspiring women veterans on their journey to becoming wilderness guides.
 
 {{< coming-soon >}}
 
 &nbsp;
 
-* [**Join the Guide Network:**](https://wildpathfinder.org/get_involved/guide_network/ "Guide Network page")If you're a woman veteran interested in becoming a wilderness guide, join our Guide Network to connect with mentors, access resources, and receive support.
+* [**Join the Guide Network:**](/get_involved/guide_network/ "Guide Network page")If you're a woman veteran interested in becoming a wilderness guide, join our Guide Network to connect with mentors, access resources, and receive support.
 
 {{< coming-soon >}}
 
 &nbsp;
 
-* [**Volunteer:**](https://wildpathfinder.org/get_involved/volunteer/ "Volunteer page")Offer your time and skills to support our operations, outreach, and events.
+* [**Volunteer:**](/get_involved/volunteer/ "Volunteer page")Offer your time and skills to support our operations, outreach, and events.
 
 {{< coming-soon >}}
 
 &nbsp;
 
-* [**Donate:**](https://wildpathfinder.org/donate/ "Donate page")Make a financial contribution to help fund our programs and empower more women veterans.
+* [**Donate:**](/donate/ "Donate page")Make a financial contribution to help fund our programs and empower more women veterans.
 
 {{< coming-soon >}}
 

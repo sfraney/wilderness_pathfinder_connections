@@ -51,7 +51,7 @@ Your generous donations directly support:
 
 ## 8\. ARE DONATIONS TAX-DEDUCTIBLE?
 
-Not just yet. Wilderness Pathfinder Connections is a nonprofit organization that has applied for 501(c)(3) tax-exempt status and currently awaiting determination from the IRS on our 501(c)(3) application.
+Not just yet. Wilderness Pathfinder Connections is a nonprofit organization that has applied for 501(c)(3) tax-exempt status and currently awaiting approval.
 
 ---
 

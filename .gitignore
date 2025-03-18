@@ -2,3 +2,4 @@
 *.lock
 package-lock.json
 public/
+.obsidian/

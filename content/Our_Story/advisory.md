@@ -26,7 +26,7 @@ The Advisory Council of Wilderness Pathfinder Connections is composed of dedicat
 
 Outreach & Program Coordinator and Co-Founder
 
-As a member of the Advisory Council, Maria brings her deep wisdom, experience, and passion for mentorship to ensure Wilderness Pathfinder Connections thrives. Her commitment to fostering inclusive and powerful spaces for healing makes her an invaluable part of the team.
+Maria is a dedicated Army veteran and counselor with a deep commitment to mental health and community empowerment. Currently pursuing a Master's in Social Work, Maria brings valuable experience from her work and  extensive VA mental health training. She combines practical expertise with a passion for holistic, culturally sensitive approaches. Maria’s dedication to empowering women veterans through nature-based leadership and transformative support enriches our Advisory Council and strengthens our mission.
 
 &nbsp;
 

@@ -9,7 +9,7 @@ tags = [
   "Nonprofit Involvement",
   "Leadership",
   "Mentorship",
-  "Diversity and Inclusion"
+  "D"
 ]
 categories = [
   "Women Veterans",
@@ -19,7 +19,7 @@ categories = [
 banner = "img/Sunrise-in-Indianola.jpg"
 authors = [ "Sher" ]
 +++
-On March 22, 2025, during Women's Military History Week, Maria and I had the profound honor of participating in the "Moving Forward Together! Women Educating and Inspiring Generations" panel at Pacific University. This event, organized in collaboration with the Oregon Department of Veterans' Affairs and Washington County, aimed to highlight the invaluable contributions of women veterans and foster a dialogue on their experiences and challenges. ​[oregondva.com](https://oregondva.com/events/womens-history-month-iani-exhibit-at-odva-466/?utm_source=chatgpt.com)
+On March 22, 2025, during Women's Military History Week, Maria and I had the honor of representing Wilderness Pathfinder Connections at the "Moving Forward Together! Women Educating and Inspiring Generations" panel at Pacific University. This event, organized in collaboration with the Oregon Department of Veterans' Affairs and Washington County, aimed to highlight the invaluable contributions of women veterans and foster a dialogue on their experiences and challenges. ​[oregondva.com](https://oregondva.com/events/womens-history-month-iani-exhibit-at-odva-466/?utm_source=chatgpt.com)
 
 **Sharing Our Stories**
 
@@ -35,6 +35,6 @@ Forest Grove City Councilor Brian Schimmel attended the event and later reflecte
 
 **Looking Ahead**
 
-Participating in this panel reinforced the mission of our nonprofit: to advocate for and support women veterans. Events like these are pivotal in bringing to light the experiences of women in the military, ensuring their stories are heard, valued, and integrated into the broader narrative of military history.​
+Participating in this panel reinforced the mission of our nonprofit: to advocate for and support women veterans. Events like these are pivotal in bringing to light the experiences of women in the military, ensuring their stories are heard, valued, and integrated into the broader narrative of military history.​ We are committed to continuing this vital work, ensuring that the voices of women veterans are heard and their contributions recognized.
 
 As we move forward, we remain committed to creating spaces where women veterans can share their experiences, find support, and inspire future generations. We extend our heartfelt gratitude to the organizers, fellow panelists, and attendees who made this event a resounding success.

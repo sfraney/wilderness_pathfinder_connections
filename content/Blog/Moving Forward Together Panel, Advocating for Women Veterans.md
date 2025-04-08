@@ -37,4 +37,6 @@ Forest Grove City Councilor Brian Schimmel attended the event and later reflecte
 
 Participating in this panel reinforced the mission of our nonprofit: to advocate for and support women veterans. Events like these are pivotal in bringing to light the experiences of women in the military, ensuring their stories are heard, valued, and integrated into the broader narrative of military history.​ We are committed to continuing this vital work, ensuring that the voices of women veterans are heard and their contributions recognized.
 
-As we move forward, we remain committed to creating spaces where women veterans can share their experiences, find support, and inspire future generations. We extend our heartfelt gratitude to the organizers, fellow panelists, and attendees who made this event a resounding success.
+As we move forward, we remain committed to creating spaces where women veterans can share their experiences, find support, and inspire future generations. We extend our heartfelt gratitude to the organizers, fellow panelists, and attendees who made this event a resounding success.[
+
+](https://photos.google.com/search/Cg5SZWNlbnRseSBhZGRlZCIIEgYKBHICCgAoiZ2+u+Ey/photo/AF1QipP04i3f5SThnS21FkmvR8W31KKi6RRNfa9T-l-C)

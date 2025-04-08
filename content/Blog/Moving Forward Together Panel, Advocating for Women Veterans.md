@@ -16,7 +16,7 @@ categories = [
   "Military Events",
   "Community Engagement"
 ]
-banner = "Uniforms.jpg"
+banner = "Uniforms"
 authors = [ "Sher" ]
 +++
 On March 22, 2025, during Women's Military History Week, Maria and I had the honor of representing Wilderness Pathfinder Connections at the "Moving Forward Together! Women Educating and Inspiring Generations" panel at Pacific University. This event, organized in collaboration with the Oregon Department of Veterans' Affairs and Washington County, aimed to highlight the invaluable contributions of women veterans and foster a dialogue on their experiences and challenges. ​[oregondva.com](https://oregondva.com/events/womens-history-month-iani-exhibit-at-odva-466/?utm_source=chatgpt.com)

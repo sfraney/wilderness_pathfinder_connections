@@ -5,10 +5,11 @@ tags = [
   "Women's Military History Week",
   "Veteran Advocacy",
   "Panel Discussions",
-  "Wilderness Guides",
-  "mentorship",
-  "nature-based healing leadership",
-  "leadership development"
+  "Pacific University",
+  "Nonprofit Involvement",
+  "Leadership",
+  "Mentorship",
+  "Diversity and Inclusion"
 ]
 categories = [
   "Women Veterans",

@@ -2,18 +2,18 @@
 title = "'Moving Forward Together' Panel: Advocating for Women Veterans"
 date = 2025-03-27T15:05:00.000Z
 tags = [
-  "Wilderness Pathfinder Connections",
-  "women veterans",
-  "Rite of Passage",
+  "Women's Military History Week",
+  "Veteran Advocacy",
+  "Panel Discussions",
   "Wilderness Guides",
   "mentorship",
   "nature-based healing leadership",
   "leadership development"
 ]
 categories = [
-  "Veteran Support",
-  "Community Building",
-  "Wilderness Programs"
+  "Women Veterans",
+  "Military Events",
+  "Community Engagement"
 ]
 banner = "img/Sunrise-in-Indianola.jpg"
 authors = [ "Sher" ]

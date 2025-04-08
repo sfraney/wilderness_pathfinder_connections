@@ -1,3 +1,23 @@
++++
+title = "'Moving Forward Together' Panel: Advocating for Women Veterans"
+date = 2025-03-27T15:05:00.000Z
+tags = [
+  "Wilderness Pathfinder Connections",
+  "women veterans",
+  "Rite of Passage",
+  "Wilderness Guides",
+  "mentorship",
+  "nature-based healing leadership",
+  "leadership development"
+]
+categories = [
+  "Veteran Support",
+  "Community Building",
+  "Wilderness Programs"
+]
+banner = "img/Sunrise-in-Indianola.jpg"
+authors = [ "Sher" ]
++++
 On March 22, 2025, during Women's Military History Week, Maria and I had the profound honor of participating in the "Moving Forward Together! Women Educating and Inspiring Generations" panel at Pacific University. This event, organized in collaboration with the Oregon Department of Veterans' Affairs and Washington County, aimed to highlight the invaluable contributions of women veterans and foster a dialogue on their experiences and challenges. ​[oregondva.com](https://oregondva.com/events/womens-history-month-iani-exhibit-at-odva-466/?utm_source=chatgpt.com)
 
 **Sharing Our Stories**

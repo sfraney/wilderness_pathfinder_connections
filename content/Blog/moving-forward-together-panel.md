@@ -39,4 +39,4 @@ Participating in this panel reinforced the mission of our nonprofit: to advocate
 
 As we move forward, we remain committed to creating spaces where women veterans can share their experiences, find support, and inspire future generations. We extend our heartfelt gratitude to the organizers, fellow panelists, and attendees who made this event a resounding success.
 
-**![Male facilitator with four women veterans from different eras.](/uploads/Panel)**
+**![Male facilitator with four women veterans from different eras.](/uploads/Panel.jpg)**

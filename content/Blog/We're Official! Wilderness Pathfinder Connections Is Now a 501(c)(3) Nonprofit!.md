@@ -1,6 +1,6 @@
 +++
 title = "'We're Official: Wilderness Pathfinder Connections Is Now a 501(c)(3) Nonprofit!"
-date = 2025-03-27T15:05:00.000Z
+date = 2025-05-14T15:05:00.000Z
 tags = [
   "Women's Military History Week",
   "Veteran Advocacy",

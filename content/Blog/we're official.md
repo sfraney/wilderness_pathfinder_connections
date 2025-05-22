@@ -48,7 +48,7 @@ We’re incredibly grateful to everyone who believed in this dream from the begi
 We have a long path ahead—but now, we walk it together.
 
 **Join us on this journey:**  
-Follow us on [Instagram] and [Facebook] for updates, stories, and ways to get involved. And thank you for being part of this growing circle.
+Follow us on [Instagram[https://www.instagram.com/wildernesspathfinder/]()] and [[Facebook]] for updates, stories, and ways to get involved. And thank you for being part of this growing circle.
 
 With gratitude and purpose,  
 The Wilderness Pathfinder Connections Team

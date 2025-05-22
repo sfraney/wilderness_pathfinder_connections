@@ -52,4 +52,4 @@ Follow us on [Instagram] and [Facebook] for updates, stories, and ways to get in
 
 With gratitude and purpose,  
 The Wilderness Pathfinder Connections Team
-**![Male facilitator with four women veterans from different eras.](/uploads/logo.png)**
+**![Wilderness Pathfinder Connections Logo](/uploads/logo.png)**

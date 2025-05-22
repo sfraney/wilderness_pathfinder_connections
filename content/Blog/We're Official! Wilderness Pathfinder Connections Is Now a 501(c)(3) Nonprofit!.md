@@ -2,19 +2,28 @@
 title = "We're Official: Wilderness Pathfinder Connections Is Now a 501(c)(3) Nonprofit!"
 date = 2025-05-14T15:05:00.000Z
 tags = [
-  "Women's Military History Week",
+  "501c3",
   "Veteran Advocacy",
-  "Panel Discussions",
-  "Pacific University",
-  "Nonprofit Involvement",
-  "Leadership",
-  "Mentorship",
-  "D"
+  "nonprofit announcement",
+  "nonprofit status",
+  "women veterans",
+  "rites of passage",
+  "ceremony",
+  "nature-based healing",
+  "community building",
+  "wilderness guides",
+  "tax-deductible donations",
+  "nonprofit status",
+  "soul work",
+  "ancestral healing",
+  "ceremony",
+  "nonprofit milestone",
 ]
 categories = [
-  "Women Veterans",
-  "Military Events",
-  "Community Engagement"
+  "Organizational Updates",
+  "Announcements",
+  "Wilderness Pathfinder News",
+  "Nonprofit Journey"
 ]
 banner = "img/logo.png"
 authors = [ "Sher" ]

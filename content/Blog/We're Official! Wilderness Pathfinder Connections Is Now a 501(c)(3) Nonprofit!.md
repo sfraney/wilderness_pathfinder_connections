@@ -1,5 +1,5 @@
 +++
-title = "'Moving Forward Together' Panel: Advocating for Women Veterans"
+title = "'We're Official: Wilderness Pathfinder Connections Is Now a 501(c)(3) Nonprofit!"
 date = 2025-03-27T15:05:00.000Z
 tags = [
   "Women's Military History Week",

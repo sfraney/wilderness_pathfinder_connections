@@ -28,7 +28,7 @@ categories = [
 banner = "img/logo.png"
 authors = [ "Sher" ]
 +++
-We’re thrilled to share some exciting news—Wilderness Pathfinder Connections is now officially recognized by the IRS as a 501(c)(3) nonprofit organization!
+![[Supporting those who seek, guiding those who lead (1) 1.png]]We’re thrilled to share some exciting news—Wilderness Pathfinder Connections is now officially recognized by the IRS as a 501(c)(3) nonprofit organization!
 
 This moment marks a major milestone in our journey. What began as a seed of an idea between veterans seeking healing and connection has now grown into a recognized nonprofit committed to uplifting women veterans through nature-based leadership and community-building.
 
@@ -52,5 +52,3 @@ Follow us on [[Instagram]] and [[Facebook]] for updates, stories, and ways to ge
 
 With gratitude and purpose,  
 The Wilderness Pathfinder Connections Team
-
-**![Wilderness Pathfinder Connections Logo](/uploads/logo.png)**

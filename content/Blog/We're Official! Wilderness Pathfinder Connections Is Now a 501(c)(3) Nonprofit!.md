@@ -16,7 +16,7 @@ categories = [
   "Military Events",
   "Community Engagement"
 ]
-banner = "img/Uniforms.jpg"
+banner = "img/logo.png"
 authors = [ "Sher" ]
 +++
 We’re thrilled to share some exciting news—Wilderness Pathfinder Connections is now officially recognized by the IRS as a 501(c)(3) nonprofit organization!

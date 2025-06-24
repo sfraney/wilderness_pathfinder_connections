@@ -46,4 +46,4 @@ We’re proud of the name we chose and the values it represents. And as we conti
 
 Would you like to be part of this journey? Stay connected, follow our updates, and join us as we grow!
 
-**![Sun rising in the distance, one large tree to the left, the shore and Puget sound in the foreground.](/uploads/Night Ocean.jpg "Sunrise at Indianola, Washington")**
+**![Moonlit water in Antigua.](/uploads/Night Ocean.jpg "Sunrise at Indianola, Washington")**

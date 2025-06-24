@@ -1,5 +1,5 @@
 +++
-title = "What’s in a Name?"
+title = "What’s in a Name? "
 date = 2025-06-24T11:29:00.000Z
 tags = [
   "Naming Process",

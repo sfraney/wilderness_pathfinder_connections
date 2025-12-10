@@ -47,6 +47,7 @@ provide our family, friends, neighbors, and nature with connection, integrity, a
 Begeny, C. T., Ryan, M. K., Moss-Racusin, C. A., &amp; Ravetz, G. (2020). In some professions, women have become
 well represented, yet gender bias persists—perpetuated by those who think it is not happening. Science
 Advances, 6(26). https://doi.org/10.1126/sciadv.aba7814
+
 Son Hing, L. S., Sakr, N., Sorenson, J. B., Stamarski, C. S., Caniera, K., &amp; Colaco, C. (2023). Gender inequities in
 the workplace: A holistic review of organizational processes and practices. Human Resource Management
 Review, 33(3), 100968. https://doi.org/10.1016/j.hrmr.2023.100968

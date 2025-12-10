@@ -17,7 +17,7 @@ categories = [
   "Ethics & Values",
   "Reflections"
 ]
-banner = "img/Night Ocean.jpg"
+banner = "uploads/Night Ocean.jpg"
 authors = [ "Sher" ]
 +++
 Names carry power. They shape identity, convey purpose, and reflect values. When we set out to name our organization, we knew we wanted something **punchy, memorable, and easy to type**—but more than that, it needed to embody who we are and what we stand for.

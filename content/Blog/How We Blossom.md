@@ -1,3 +1,23 @@
+[[+++]]
+title = "How We Blossom"
+date = 2025-08-28T11:29:00.000Z
+tags = [
+  "Wilderness Pathfinder Connections",
+  "women veterans",
+  "Rite of Passage",
+  "Wilderness Guides",
+  "mentorship",
+  "nature-based healing leadership",
+  "leadership development"
+]
+categories = [
+  "Veteran Support",
+  "Community Building",
+  "Wilderness Programs"
+]
+banner = "img/Sunrise-in-Indianola.jpg"
+authors = [ "Dr. Debbee" ]
++++
 How does anything begin? Plant a seed, speak a thought, and then with a bit of attention and
 care, it blossoms. Wilderness Pathfinder Connections had such a beginning with three Veteran
 women, Maria, Sher, and Debbee, venting about their feelings around inequality, not being taken

@@ -45,6 +45,6 @@ Your generosity makes a real difference. Every donation directly funds mentorshi
 
 &nbsp;
 
-Wilderness Pathfinder Connections has applied for 501(c)(3) status and currently awaiting approval.
+Wilderness Pathfinder Connections is a registered 501(c)(3) nonprofit organization. Donations are tax-deductible to the fullest extent allowed by law. Our EIN is 33-3471172.
 
 &nbsp;

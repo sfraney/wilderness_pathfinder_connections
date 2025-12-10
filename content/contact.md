@@ -47,6 +47,7 @@ There are several ways to get involved with Wilderness Pathfinder Connections:
 
 * **Become a Mentor:** If you're passionate about supporting women veterans and have experience in wilderness guiding or rites of passage facilitation, you can apply to become a mentor. [Learn more about becoming a mentor and apply here](/get_involved/mentorship/).
 * **Join the Guide Network:** If you're a woman veteran interested in becoming a wilderness guide, you can join our Guide Network to connect with mentors, access resources, and receive support on your journey. [Learn more about joining the Guide Network and apply here](/get_involved/guide_network/).
+
 * **Support the community:** You can [make a donation](/donate/) to support our programs or [volunteer your time and skills](/get_involved/volunteer/).
 
 ## 5\. WHO CAN PARTICIPATE IN YOUR PROGRAMS?
@@ -70,6 +71,6 @@ Your generous donations directly support:
 
 ## 8\. ARE DONATIONS TAX-DEDUCTIBLE?
 
-Yes! Wilderness Pathfinder Connections is a 501(c)(3) nonprofit organization, and your donations are tax-deductible to the extent allowed by law.
+Yes! Wilderness Pathfinder Connections is a registered 501(c)(3) nonprofit organization. Donations are tax-deductible to the fullest extent allowed by law. Our EIN is 33-3471172.
 
 &nbsp;

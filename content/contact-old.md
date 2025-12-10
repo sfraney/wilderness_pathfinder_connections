@@ -51,7 +51,7 @@ Your generous donations directly support:
 
 ## 8\. ARE DONATIONS TAX-DEDUCTIBLE?
 
-Not just yet. We are currently in the process of obtaining 501(c)(3) tax-exempt status. Once approved, your donations will be tax-deductible to the extent allowed by law. Please check back for updates or contact us if you have any questions.
+Yes! Wilderness Pathfinder Connections is a registered 501(c)(3) nonprofit organization. Donations are tax-deductible to the fullest extent allowed by law. Our EIN is 33-3471172.
 
 ---
 

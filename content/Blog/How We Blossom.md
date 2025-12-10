@@ -1,5 +1,5 @@
 [[+++]]
-title = "How We Blossom"
+title = "How We Blossom: The beginnings of a women-led veterans’ community rooted in nature, truth, and solidarity."
 date = 2025-08-28T11:29:00.000Z
 tags = [
   "Wilderness Pathfinder Connections",

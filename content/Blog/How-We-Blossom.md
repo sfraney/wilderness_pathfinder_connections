@@ -1,7 +1,28 @@
-+++ title = "How We Blossom: The story of how Wilderness Pathfinder Connections took root." date = 2025-08-028T11:29:00.000Z 
-tags = [ "Wilderness Pathfinder Connections", "women veterans", "Rite of Passage", "Wilderness Guides", "mentorship", "nature-based healing", "leadership development", "community building", "gender equity" ] 
-categories = [ "Veteran Support", "Community Building", "Wilderness Programs", "Our Story", "Women-Led Leadership", "Nature-Based Healing" ] banner = "img/Founders.jpg" 
-authors = [ "Dr. Debbee" ] +++
++++
+title = "How We Blossom: The story of how Wilderness Pathfinder Connections took root."
+date = 2025-08-28T11:29:00.000Z
+tags = [
+  "Wilderness Pathfinder Connections",
+  "women veterans",
+  "Rite of Passage",
+  "Wilderness Guides",
+  "mentorship",
+  "nature-based healing",
+  "leadership development",
+  "community building",
+  "gender equity"
+]
+categories = [
+  "Veteran Support",
+  "Community Building",
+  "Wilderness Programs",
+  "Our Story",
+  "Women-Led Leadership",
+  "Nature-Based Healing"
+]
+banner = "uploads/Founders.jpg"
+authors = [ "Dr. Debbee" ]
++++
 How does anything begin? Plant a seed, speak a thought, and then with a bit of attention and care, it blossoms. Wilderness Pathfinder Connections had such a beginning with three Veteran women, Maria, Sher, and Debbee, venting about their feelings around inequality, not being taken seriously, or respected for their knowledge and experiences. However, most of the conversation
 was about commonality in their struggles, creativity, laughter, strengths, and possibilities!
 

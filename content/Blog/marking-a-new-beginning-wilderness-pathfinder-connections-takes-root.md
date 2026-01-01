@@ -1,4 +1,4 @@
-[[+++]]
++++
 title = "Marking a New Beginning: Wilderness Pathfinder Connections Takes Root"
 date = 2025-02-14T11:29:00.000Z
 tags = [

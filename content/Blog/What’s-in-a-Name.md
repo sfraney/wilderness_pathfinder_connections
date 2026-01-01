@@ -46,4 +46,4 @@ We’re proud of the name we chose and the values it represents. And as we conti
 
 Would you like to be part of this journey? Stay connected, follow our updates, and join us as we grow!
 
-**![Moonlit water in Antigua.](uploads/Night Ocean.jpg "We didn’t just choose a name. We chose a path")**
+**![Moonlit water in Antigua.](uploads/Night-Ocean.jpg "We didn’t just choose a name. We chose a path")**

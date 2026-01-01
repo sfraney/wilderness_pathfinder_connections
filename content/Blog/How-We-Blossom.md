@@ -20,7 +20,7 @@ categories = [
   "Women-Led Leadership",
   "Nature-Based Healing"
 ]
-banner = "img/Founders.jpg"
+banner = "/img/Founders.jpg"
 authors = [ "Dr. Debbee" ]
 +++
 How does anything begin? Plant a seed, speak a thought, and then with a bit of attention and care, it blossoms. Wilderness Pathfinder Connections had such a beginning with three Veteran women, Maria, Sher, and Debbee, venting about their feelings around inequality, not being taken seriously, or respected for their knowledge and experiences. However, most of the conversation

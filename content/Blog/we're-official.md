@@ -28,7 +28,6 @@ categories = [
 banner = "uploads/Supporting those who seek, guiding those who lead.png"
 authors = [ "Sher" ]
 +++
-**![Offically a 501(c)(3)!](/img/Supporting those who seek, guiding those who lead.png "Offically a 501(c)(3)!**
 
 We’re thrilled to share some exciting news—Wilderness Pathfinder Connections is now officially recognized by the IRS as a 501(c)(3) nonprofit organization!
 

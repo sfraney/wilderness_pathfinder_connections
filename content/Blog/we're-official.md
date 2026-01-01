@@ -55,5 +55,3 @@ With gratitude and purpose,
 The Wilderness Pathfinder Connections Team
 
 **![Wilderness Pathfinder Connections Logo](/img/logo.png "Wilderness Pathfinder Connections Logo")**
-
-**![Sun rising in the distance, one large tree to the left, the shore and Puget sound in the foreground.](/uploads/20241013-073753.jpg "Sunrise at Indianola, Washington")**

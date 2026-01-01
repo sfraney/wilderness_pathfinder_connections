@@ -1,1 +1,1 @@
-![[Supporting those who seek, guiding those who lead (1).png]]
+![[Supporting those who seek, guiding those who lead.png]]

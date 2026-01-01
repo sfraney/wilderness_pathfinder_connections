@@ -54,4 +54,5 @@ Follow us on [[Instagram]] and [[Facebook]] for updates, stories, and ways to ge
 With gratitude and purpose,  
 The Wilderness Pathfinder Connections Team
 
+
 **![Wilderness Pathfinder Connections Logo](/img/logo.png "Wilderness Pathfinder Connections Logo")**

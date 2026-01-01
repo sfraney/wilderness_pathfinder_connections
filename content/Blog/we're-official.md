@@ -25,7 +25,7 @@ categories = [
   "Wilderness Pathfinder News",
   "Nonprofit Journey"
 ]
-banner = "uploads/Supporting those who seek, guiding those who lead (1) 1.png"
+banner = "img/Supporting those who seek, guiding those who lead (1) 1.png"
 authors = [ "Sher" ]
 +++
 ![[Supporting those who seek, guiding those who lead (1) 1.png]]We’re thrilled to share some exciting news—Wilderness Pathfinder Connections is now officially recognized by the IRS as a 501(c)(3) nonprofit organization!
